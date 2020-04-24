@@ -1,0 +1,74 @@
+<!-- Footer -->
+<footer id="footer">
+  <div class="inner" style="text-align: center">
+    <ul class="icons">
+    <a href="//www.dmca.com/Protection/Status.aspx?ID=232cb72e-5243-4a53-bd0b-09fbbb8535b3" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca-badge-w200-5x1-02.png?ID=232cb72e-5243-4a53-bd0b-09fbbb8535b3"  alt="DMCA.com Protection Status" /></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
+<br><br>
+      {% if site.facebook_url %}
+      <li>
+        <a href="{{ site.facebook_url }}" class="icon alt fab fa-facebook-f">
+          <span class="label">Facebook</span>
+        </a>
+      </li>
+    {% endif %}
+      {% if site.instagram_url %}
+        <li>
+          <a href="{{ site.instagram_url }}" class="icon alt fa fa-instagram" >
+            <span class="label">Instagram</span>
+          </a>
+        </li>
+      {% endif %}
+      {% if site.github_url %}
+        <li>
+          <a href="{{ site.github_url }}" class="icon alt fa fa-github" >
+            <span class="label">GitHub</span>
+          </a>
+        </li>
+      {% endif %}
+      {% if site.telegram_url %}
+        <li>
+          <a href="{{ site.telegram_url }}" class="icon alt fa fa-telegram" >
+            <span class="label">Telegram</span>
+          </a>
+        </li>
+      {% endif %}
+      {% if site.xda_url %}
+        <li>
+          <a href="{{ site.xda_url }}" class="icon alt fa fa-android" >
+            <span class="label">Xda-Developers</span>
+          </a>
+        </li>
+      {% endif %}
+    {% if site.techindeep_url %}
+      <li>
+        <a href="{{ site.techindeep_url }}" class="icon alt fab fa-microchip">
+          <span class="label">Techindeep</span>
+        </a>
+      </li>
+    {% endif %}
+      <li>
+        <a href="/feed.xml" class="icon alt fa fa-feed" >
+          <span class="label">RSS-Feed</span>
+        </a>
+      </li>
+
+    </ul>
+    <ul class="copyright">
+      <li>&copy;{{ site.title }}</li>
+      <li>Original Design:
+        <a href="https://html5up.net" >HTML5 UP</a>
+      </li>
+    </ul>
+  </div>
+</footer>
+<!-- Scripts -->
+<script src="/assets/js/jquery.min.js"></script>
+<script src="/assets/js/jquery.scrolly.min.js"></script>
+<script src="/assets/js/jquery.scrollex.min.js"></script>
+<script src="/assets/js/skel.min.js"></script>
+<script src="/assets/js/util.js"></script>
+<script src="/assets/js/main.js"></script>
+<script src="/assets/js/back.to.top.js"></script>
+<script src="https://kit.fontawesome.com/9f02ede189.js"></script>
+<script src="/assets/js/prism.js"></script>
+{% include new-window-fix.html %}

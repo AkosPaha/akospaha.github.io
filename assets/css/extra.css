@@ -1,0 +1,143 @@
+.flex-wrapper {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.single-chart {
+  max-width: 20%;
+  justify-content: center;
+  min-width: 18%;
+}
+
+.github {
+  float: right;
+  margin-top: 15px;
+}
+
+.circular-chart {
+  display: block;
+  margin: 10px auto;
+  max-width: 80%;
+  max-height: 250px;
+  text-anchor: middle;
+}
+
+.circle-bg {
+  fill: none;
+  stroke: #0f111a;
+  stroke-width: 3.8;
+}
+
+.circle {
+  fill: none;
+  stroke-width: 2.8;
+  stroke-linecap: round;
+  animation: progress 2s ease-out forwards;
+}
+
+@keyframes progress {
+  0% {
+    stroke-dasharray: 0 100;
+  }
+}
+.circle {
+  stroke: #fff;
+}
+.percentage {
+  text-transform: uppercase;
+  fill: #ffffffb2;
+  font-weight: 600;
+  font-family: sans-serif;
+  font-size: 0.15em;
+}
+
+.extra {
+  margin: auto;
+  display: flex;
+  padding: 20px 0px 20px 0px;
+  justify-content: center;
+}
+
+.read-time {
+  float: right;
+}
+
+.lunrsearchresult .title {
+  color: #ffffff;
+  font-weight: bold;
+}
+.lunrsearchresult .url {
+  color: silver;
+  padding-bottom: 20px;
+}
+.lunrsearchresult a {
+  display: block;
+  color: #777;
+}
+.lunrsearchresult a:hover,
+.lunrsearchresult a:focus {
+  text-decoration: none !important;
+}
+.lunrsearchresult a:hover .title {
+  text-decoration: none !important;
+  padding-bottom: 10px !important;
+}
+
+.extra-tiles {
+  width: 25% !important;
+  height: 15em !important;
+  min-height: auto !important;
+}
+
+.embed-youtube {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 25px;
+  height: 0;
+}
+
+.embed-youtube iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.post-tags {
+  display: none;
+}
+.post-tags:first-of-type {
+  display: block;
+  padding-top: 20px !important;
+  margin-bottom: 20px;
+  float: right;
+}
+@media only screen and (max-width: 550px) {
+  .post-tags {
+    display: block;
+    float: none;
+    padding-bottom: 20px;
+  }
+  .post-tags:first-of-type {
+    display: none;
+  }
+  .read-time {
+    text-align: left;
+    float: none;
+    margin-bottom: -20px;
+  }
+  .social-icons {
+    margin-top: -10px;
+    width: 100%;
+  }
+  .github {
+    float: none;
+  }
+  .single-chart {
+    max-width: 30%;
+  }
+  .percentage {
+    font-size: 0.3em;
+  }
+}

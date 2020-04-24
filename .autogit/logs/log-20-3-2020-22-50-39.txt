@@ -1,0 +1,18 @@
+-------------------- Auto-Git Log --------------------
+		Mon Apr 20 2020 22:50:39 GMT+0200 (közép-európai nyári idő)
+------------------------------------------------------
+
+Modified files:
+* _sass/layout/_header.scss
+* _sass/libs/_vars.scss
+* assets/js/main.js
+
+
+Created files:
+* .autogit/logs/log-20-3-2020-22-49-34.txt
+
+
+Deleted files:
+
+
+Renamed files:

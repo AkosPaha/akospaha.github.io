@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Mon Apr 20 2020 22:24:02 GMT+0200 (közép-európai nyári idő)
+------------------------------------------------------
+
+Modified files:
+* assets/images/3.jpg
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

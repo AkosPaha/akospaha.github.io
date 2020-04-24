@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Mon Apr 20 2020 22:28:47 GMT+0200 (közép-európai nyári idő)
+------------------------------------------------------
+
+Modified files:
+* "assets/images/k\303\251p.png"
+
+
+Created files:
+* .autogit/logs/log-20-3-2020-22-28-31.txt
+
+
+Deleted files:
+
+
+Renamed files:

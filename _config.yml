@@ -1,0 +1,62 @@
+# site settings
+title: AkosPaha
+subtitle:
+email: contact@akospaha.tk
+phone: 
+description: Custom Roms, Custom Kernels, Custom TWRP recovery (OFOX R10) Tester, Gboard Themes Maker and hobby photographer
+landing-title: Hello, My Name is Ákos Paha
+baseurl: "" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author: AkosPaha
+street_address:
+city: Budapest
+state: 
+zip_code: 
+country: Hungary
+
+# homepage tiles
+tiles-count: 4
+post-tiles: true
+projects-tiles: true
+home-about: true
+# social settings
+disqus: 'akospaha-tk'
+facebook_url: https://www.facebook.com/Paha.Akos
+github_url: https://github.com/AkosPaha
+instagram_url: https://instagram.com/Akos_paha
+telegram_url: https://t.me/paha_akos
+paypal_url: https://www.paypal.me/akospaha
+techindeep_url: https://www.techindeep.com/hu/author/akospaha
+
+
+# skills widget
+skills:
+  Designing: "55"
+  HTML: "75"
+  C#: "20"
+  C++: "10"
+  Office: "95"
+  Testing: "100"
+  Helping: "100"
+
+# build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+
+sass:
+  style: compressed
+
+include: ["_pages"]
+collections:
+  pages:
+    output: true
+    permalink: :path
+
+permalink: pretty
+permalink: /:title/
+
+jekyll_admin:
+  hidden_links:
+    - datafiles

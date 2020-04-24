@@ -1,0 +1,481 @@
+---
+layout: page
+title: Gboard Themes
+nav-menu: true
+tags: gboards themes google morethemes 
+---
+
+<div id="main" class="alt">
+    <div class="inner">
+    <h3>About:</h3>
+    <p> Some Gboard Themes for android. Need Magisk root for use the themes. (Need magisk module (Thanks the module for RKBD) <a href="https://t.me/gboardthemes/44316"> Module Link</a>) + The Rboard manager app (Thanks the app for Peter (DerTyp7214) <a href="https://github.com/DerTyp7214/Rboard-Theme-Manager/releases"> App Link</a>)</p>
+    <ul class="icons">
+        <li>
+            <a href="https://github.com/AkosPaha/Rboard-ColorsTheme" class="icon alt fa fa-github" target="_blank">
+            <span class="label">GitHub</span></a>
+        </li>
+        <li>
+            <a href="https://t.me/paha_akos_channel" class="icon alt fa fa-telegram" target="_blank">
+            <span class="label">Telegram</span></a>
+        </li>
+<br><br>
+    </ul><h4> How to apply:</h4> 
+<li>Download the <a href="https://t.me/gboardthemes/44316">Rboard Magisk Module</a> and the <a href="https://github.com/DerTyp7214/Rboard-Theme-Manager/releases"> Rboard Themes Manager app</a></li>
+<li>Install the Magisk module in the Magisk Manager (Magisk is root) and reboot your phone</li> 
+<li>After you installed the module and rebooted the phone install the theme Manager app</li>
+<li>Setting up the Rboard Theme Manager App</li>
+<li>After you done the setting up the app, download my packs (Colors_Dark,Colors_Light,Colored_Keys,<br>Style_Material,Swift_Material,Black_Themes,<br>Blue_Themes,Nord_Themes,Mix_Themes,Grey_Themes,<br>Material_Oceans_Themes,Material_Grey,<br>White_Themes,Black_Themes_V2,Snowy,Colorful,<br>Material_Oceans_Lively,Redesign)</li>
+<li>Apply Themes</li>
+<li>Enjoy</li>
+<h1>Latest Release:</h1>
+    <div class="row 200%">
+        <div class="6u 12u$(medium)">
+	<img
+          src="assets/images/Redesign.png"
+          alt=""
+          data-position="center center"
+        />
+    <h2>Redesign Pack:</h2>
+      <li>Made with Phone</li>
+	  <li>Default Themes is the light theme (Ported google Redesign hidden theme)</li>
+	  <li>3 different Themes: (Light, Dark, Black)</li> 
+<li>Download from Github</li>
+<li>Extract the zip</li>
+<li>After you can see others zip and file</li>
+<li>Select and paste to /system/etc/gboard_themes</li>
+<li>Open Rboard Manager App and apply the theme</li>
+<li>Or just download from the Rboard Manager app if you use this app</li><br>
+        </div>
+        <div class="6u$ 12u$(medium)">
+            <br><br><br>
+            <p><strong>File Name:</strong> Redesigns_pack.zip<br>
+            <strong>File Size:</strong>  116 KB<br></p>
+            <h3>Downloads:</h3>
+            <ul class="actions">
+                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Redesigns_pack.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel" class="button special">Telegram</a></li>
+<li>
+</li>
+            </ul>
+        </div>
+    </div>
+<br><br> <h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="">LICENSE</a>	    
+<h1>Previous Release:</h1>
+    <div class="row 200%">
+        <div class="6u 12u$(medium)">
+	<img
+          src="assets/images/Material_lively.png"
+          alt=""
+          data-position="center center"
+        />
+    <h2>Material Oceans Themes Lively:</h2>
+      <li>Made with Phone</li>
+	  <li>Different lively accent colors</li>
+	  <li>All Colors based on the Material Oceans color and previous Material Oceans Themes. Thank you the colors and the access for use these colors for<a href="https://github.com/Blacksuan19"> Blacksuan19 Github </a> And <a href="https://blacksuan19.me"> Him website </a>(Thank you for website template too)</li> 
+<li>Download from Github</li>
+<li>Extract the zip</li>
+<li>After you can see others zip and file</li>
+<li>Select and paste to /system/etc/gboard_themes</li>
+<li>Open Rboard Manager App and apply the theme</li>
+<li>Or just download from the Rboard Manager app if you use this app</li><br>
+        </div>
+        <div class="6u$ 12u$(medium)">
+            <br><br><br>
+            <p><strong>File Name:</strong> Material_ocean_lively.zip<br>
+            <strong>File Size:</strong>  1.73 MB<br></p>
+            <h3>Downloads:</h3>
+            <ul class="actions">
+                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Material_ocean_lively.zip" class="button special">Github</a></li>
+<li>
+</li>
+            </ul>
+        </div>
+    </div>
+<h1>Previous Release:</h1>
+    <div class="row 200%">
+        <div class="6u 12u$(medium)">
+	<img
+          src="assets/images/Colorful.png"
+          alt=""
+          data-position="center center"
+        />
+      <h2>Colorful Themes:</h2>
+      <li>Made with Phone</li>
+	  <li>Accent color same as text color</li>
+	  <li>Minimal themes</li>
+      <li>Good grey color with different accent</li>
+	  <h2>How to apply:</h2>
+<li>Download from Github</li>
+<li>Extract the zip</li>
+<li>After you can see others zip and file</li>
+<li>Select and paste to /system/etc/gboard_themes</li>
+<li>Open Rboard Manager App and apply the theme</li>
+<li>Or just download from the Rboard Manager app if you use this app</li><br>
+        </div>
+        <div class="6u$ 12u$(medium)">
+            <br><br><br>
+            <p><strong>File Name:</strong> Colorful.zip<br>
+            <strong>File Size:</strong>  229 KB<br></p>
+            <h3>Downloads:</h3>
+            <ul class="actions">
+                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/e3b73bfa7e339d8f6297650b81675838e36a4b32/Colorful.zip" class="button special">Github</a></li>
+<li>
+</li>
+            </ul>
+        </div>
+    </div>
+<h1>Previous Release:</h1>
+    <div class="row 200%">
+        <div class="6u 12u$(medium)">
+	<img
+          src="assets/images/Snowys.png"
+          alt=""
+          data-position="center center"
+        />
+      <h2>Snowys Themes:</h2>
+      <li>Made with Phone</li>
+	  <li>Accent color same as text color</li>
+	  <li>Minimal themes</li>
+      <li>First Snowys Blue themes looks like snow</li>
+	  <h2>How to apply:</h2>
+<li>Download from Github</li>
+<li>Extract the zip</li>
+<li>After you can see others zip and file</li>
+<li>Select and paste to /system/etc/gboard_themes</li>
+<li>Open Rboard Manager App and apply the theme</li>
+<li>Or just download from the Rboard Manager app if you use this app</li><br>
+        </div>
+        <div class="6u$ 12u$(medium)">
+            <br><br><br>
+            <p><strong>File Name:</strong> Snowys.zip<br>
+            <strong>File Size:</strong>  222 KB<br></p>
+            <h3>Downloads:</h3>
+            <ul class="actions">
+                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/d723a1e776a168f42bcefd795ef4b68b65b688e9/Snowys.zip" class="button special">Github</a></li>
+<li>
+</li>
+            </ul>
+        </div>
+    </div>
+<h1>Previous Release:</h1>
+    <div class="row 200%">
+        <div class="6u 12u$(medium)">
+	<img
+          src="assets/images/Black_Themes_V2.png"
+          alt=""
+          data-position="center center"
+        />
+      <h2>Black Themes:</h2>
+      <li>Made with Phone</li>
+	  <li>Background color is black</li>
+	  <li>Different accent colors</li>
+      <li>Based on previous themes, just black version</li>
+	  <h2>How to apply:</h2>
+<li>Download from Github</li>
+<li>Extract the zip</li>
+<li>After you can see others zip and file</li>
+<li>Select and paste to /system/etc/gboard_themes</li>
+<li>Open Rboard Manager App and apply the theme</li>
+<li>Or just download from the Rboard Manager app if you use this app</li><br>
+        </div>
+        <div class="6u$ 12u$(medium)">
+            <br><br><br>
+            <p><strong>File Name:</strong> Black_Themes_V2.zip<br>
+            <strong>File Size:</strong>  244 KB<br></p>
+            <h3>Downloads:</h3>
+            <ul class="actions">
+                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Black_Themes_V2.zip" class="button special">Github</a></li>
+<li>
+</li>
+            </ul>
+        </div>
+    </div>
+<h1>Older Release:</h1>
+    <div class="row 200%">
+        <div class="6u 12u$(medium)">
+	<img
+          src="assets/images/White_themes.png"
+          alt=""
+          data-position="center center"
+        />
+      <h2>White Themes:</h2>
+      <li>Made with Phone</li>
+	  <li>Background color is white color</li>
+	  <li>Different accent colors</li>
+      <li>Based on Goolge Colors with little modify</li>
+	  <h2>How to apply:</h2>
+<li>Download from Github</li>
+<li>Extract the zip</li>
+<li>After you can see others zip and file</li>
+<li>Select and paste to /system/etc/gboard_themes</li>
+<li>Open Rboard Manager App and apply the theme</li>
+<li>Or just download from the Rboard Manager app if you use this app</li><br>
+        </div>
+        <div class="6u$ 12u$(medium)">
+            <br><br><br>
+            <p><strong>File Name:</strong> White_themes.zip<br>
+            <strong>File Size:</strong>  489 KB<br></p>
+            <h3>Downloads:</h3>
+            <ul class="actions">
+                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/White_themes.zip" class="button special">Github</a></li>
+<li>
+</li>
+            </ul>
+        </div>
+    </div>
+<h1>Previous Release:</h1>
+    <div class="row 200%">
+        <div class="6u 12u$(medium)">
+	<img
+          src="assets/images/Material_grey.png"
+          alt=""
+          data-position="center center"
+        />
+      <h2>Material Grey Themes:</h2>
+      <li>Made with Phone</li>
+	  <li>Background color Based grey color</li>
+	  <li>Different accent colors</li>
+	  <h2>How to apply:</h2>
+<li>Download from Github</li>
+<li>Extract the zip</li>
+<li>After you can see others zip and file</li>
+<li>Select and paste to /system/etc/gboard_themes</li>
+<li>Open Rboard Manager App and apply the theme</li>
+<li>Or just download from the Rboard Manager app if you use this app</li><br>
+        </div>
+        <div class="6u$ 12u$(medium)">
+            <br><br><br>
+            <p><strong>File Name:</strong> Material_grey.zip<br>
+            <strong>File Size:</strong>  264 KB<br></p>
+            <h3>Downloads:</h3>
+            <ul class="actions">
+                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Material_grey.zip" class="button special">Github</a></li>
+<li>
+</li>
+            </ul>
+        </div>
+    </div>
+<h1>Older Release:(Special Themes):</h1>
+    <div class="row 200%">
+        <div class="6u 12u$(medium)">
+	<img
+          src="assets/images/Névtelen.png"
+          alt=""
+          data-position="center center"
+        />
+      <h2>Material Oceans Themes:</h2>
+      <li>Made with Phone</li>
+	  <li>Background color Based on the website color</li>
+	  <li>Different accent colors</li>
+	  <li>All Colors based on the Material Oceans color. Thank you the colors and the access for use these colors for<a href="https://github.com/Blacksuan19"> Blacksuan19 Github </a> And <a href="https://blacksuan19.me"> Him website </a>(Thank you for website template too)</li> 
+<h2>How to apply:</h2>
+<li>Download from Github</li>
+<li>Extract the zip</li>
+<li>After you can see others zip and file</li>
+<li>Select and paste to /system/etc/gboard_themes</li>
+<li>Open Rboard Manager App and apply the theme</li>
+<li>Or just download from the Rboard Manager app if you use this app</li><br>
+        </div>
+        <div class="6u$ 12u$(medium)">
+            <br><br><br>
+            <p><strong>File Name:</strong> Material_Oceans_Themes.zip<br>
+            <strong>File Size:</strong>  320 KB<br></p>
+            <h3>Downloads:</h3>
+            <ul class="actions">
+                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Material_ocean_themes.zip" class="button special">Github</a></li>
+<li>
+</li>
+            </ul>
+        </div>
+    </div>
+<h1>Older Release:</h1>
+    <div class="row 200%">
+        <div class="6u 12u$(medium)">
+	<img
+          src="assets/images/Grey_Themes.png"
+          alt=""
+          data-position="center center"
+        />
+      <h2>Grey Themes:</h2>
+      <li>Made with Notepad++</li>
+	  <li>Grey background color</li>
+	  <li>Different random accent colors</li>
+	  <li>Themes without border</li> 
+<h2>How to apply:</h2>
+<li>Download from Github</li>
+<li>Extract the zip</li>
+<li>After you can see others zip and file</li>
+<li>Select and paste to /system/etc/gboard_themes</li>
+<li>Open Rboard Manager App and apply the theme</li>
+<li>Or just download from the Rboard Manager app if you use this app</li><br>
+        </div>
+        <div class="6u$ 12u$(medium)">
+            <br><br><br>
+            <p><strong>File Name:</strong> Grey_Themes.zip<br>
+            <strong>File Size:</strong>  3.96 MB<br></p>
+            <h3>Downloads:</h3>
+            <ul class="actions">
+                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Grey_Themes.zip" class="button special">Github</a></li>
+            </ul>
+        </div>
+    </div>
+<h1>Older Release:</h1>
+    <div class="row 200%">
+        <div class="6u 12u$(medium)">
+	<img
+          src="assets/images/mix.png"
+          alt=""
+          data-position="center center"
+        />
+      <h2>Mix Themes:</h2>
+      <li>Made with Notepad++</li>
+	  <li>Different random background color</li>
+	  <li>Different random accent colors</li>
+	  <li>Themes with border and without border</li> 
+      <li>Special random made themes</li>
+<h2>How to apply:</h2>
+<li>Download from Github</li>
+<li>Extract the zip</li>
+<li>After you can see others zip and file</li>
+<li>Select and paste to /system/etc/gboard_themes</li>
+<li>Open Rboard Manager App and apply the theme</li>
+<li>Or just download from the Rboard Manager app if you use this app</li><br>
+        </div>
+        <div class="6u$ 12u$(medium)">
+            <br><br><br>
+            <p><strong>File Name:</strong> Mix.zip<br>
+            <strong>File Size:</strong> 1.3 MB<br></p>
+            <h3>Downloads:</h3>
+            <ul class="actions">
+                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Mix.zip" class="button special">Github</a></li>
+            </ul>
+        </div>
+    </div>
+<h1>Older Release:</h1>
+    <div class="row 200%">
+        <div class="6u 12u$(medium)">
+	<img
+          src="assets/images/Nord_Themes.png"
+          alt=""
+          data-position="center center"
+        />
+      <h2>Nord Themes:</h2>
+      <li>Made with Notepad++</li>
+	  <li>Different nord background color</li>
+	  <li>Different nord accent colors</li>
+	  <li>Themes with border and without border</li> 
+<h2>How to apply:</h2>
+<li>Download from Github</li>
+<li>Extract the zip</li>
+<li>After you can see others zip and file</li>
+<li>Select and paste to /system/etc/gboard_themes</li>
+<li>Open Rboard Manager App and apply the theme</li>
+<li>Or just download from the Rboard Manager app if you use this app</li><br>
+        </div>
+        <div class="6u$ 12u$(medium)">
+            <br><br><br>
+            <p><strong>File Name:</strong> Nord_Themes.zip<br>
+            <strong>File Size:</strong> 344 KB<br></p>
+            <h3>Downloads:</h3>
+            <ul class="actions">
+                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Nord_Themes.zip" class="button special">Github</a></li>
+            </ul>
+        </div>
+    </div>
+    <h1>Older Release:</h1>
+    <div class="row 200%">
+        <div class="6u 12u$(medium)">
+	<img
+          src="assets/images/Blue_themes.png"
+          alt=""
+          data-position="center center"
+        />
+      <h2>Blue Themes:</h2>
+      <li>Made with Notepad++</li>
+	  <li>Dark Blue background color</li>
+	  <li>Different accent colors</li>
+	  <li>Background color is same dark blue with different accent color</li>
+	  <li>Themes with border and without border</li>
+<li>Or just download from the Rboard Manager app if you use this app</li><br>
+<h2>How to apply:</h2>
+<li>Download from Github</li>
+<li>Extract the zip</li>
+<li>After you can see others zip and file</li>
+<li>Select and paste to /system/etc/gboard_themes</li>
+<li>Open Rboard Manager App and apply the theme</li><br>
+        </div>
+        <div class="6u$ 12u$(medium)">
+            <br><br><br>
+            <p><strong>File Name:</strong> Blue_Themes.zip<br>
+            <strong>File Size:</strong> 276 KB<br></p>
+            <h3>Downloads:</h3>
+            <ul class="actions">
+                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Blue_Themes.zip" class="button special">Github</a></li>
+            </ul>
+        </div>
+    </div>
+    <h1>Older Releases:</h1>
+    <div class="row 200%">
+        <div class="6u 12u$(medium)">
+	<img
+          src="assets/images/Black_themes.png"
+          alt=""
+          data-position="center center"
+        />
+      <h2>Black Themes:</h2>
+      <li>Made with Notepad++</li>
+	  <li>Black background color</li>
+	  <li>Different accent colors</li>
+	  <li>Background color is black with different accent color</li>
+	  <li>Themes with border and without border</li> 
+<h2>How to apply:</h2>
+<li>Download from Github</li>
+<li>Extract the zip</li>
+<li>After you can see others zip and file</li>
+<li>Select and paste to /system/etc/gboard_themes</li>
+<li>Or just download from the Rboard Manager app if you use this app</li><br>
+<li><a href="https://drive.google.com/file/d/11DKqg0IBIHyIZ6w1630LLhCrr4PSOrGz/view?usp=drivesdk">Video tutorial</a></li>
+        </div>
+        <div class="6u$ 12u$(medium)">
+            <br><br><br>
+            <p><strong>File Name:</strong> Black_Themes.zip<br>
+            <strong>File Size:</strong> 820 KB<br></p>
+            <h3>Downloads:</h3>
+            <ul class="actions">
+                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Black_Themes.zip" class="button special">Github</a></li>
+                <li>(Enter button color fixed)</li>
+            </ul>
+        </div>
+    </div>
+    <h1>Older Releases:</h1>
+    <div class="row 200%">
+      <div class="6u 12u$(medium)">
+	      <img
+          src="assets/images/gboardthemes2.jpg"
+          alt=""
+          data-position="center center"
+        />
+      <h2>Colored Keys:</h2>
+          <li>Made with phone</li>
+          <li>5 different colors</li>
+          <li>Accent color is #2969ff</li>
+          <li>Background color is material with same accent color</li>
+          <li>Themes with border and without border</li>
+          <li>Available 5 colors:Blue,Claret,Green,Red,Yellow</li>
+          <li>The "Delete" and "Caps" button from CM11 Veu Theme</li>
+<li>Or just download from the Rboard Manager app if you use this app</li><br>
+      </div>
+      <div class="6u$ 12u$(medium)">
+            <br><br><br>
+            <p><strong>File Name:</strong>  Colored_keys.zip<br>
+            <strong>File Size:</strong> 279 KB<br></p>
+            <h3>Downloads:</h3>
+            <ul class="actions">
+                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Colored_keys.zip" class="button special">Github</a></li>
+            </ul>
+        </div>
+    </div>
+	
+   <br><br>
+<h4>License:</h4>
+Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>

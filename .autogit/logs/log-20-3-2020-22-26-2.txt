@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Mon Apr 20 2020 22:26:02 GMT+0200 (közép-európai nyári idő)
+------------------------------------------------------
+
+Modified files:
+* assets/images/folio/2.jpg
+
+
+Created files:
+* .autogit/logs/log-20-3-2020-22-25-46.txt
+
+
+Deleted files:
+
+
+Renamed files:
