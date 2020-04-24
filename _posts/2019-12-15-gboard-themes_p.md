@@ -26,7 +26,7 @@ tags: gboard themes google morethemes gboardkeyboard keyboard custom themes
 > For more gboard themes
 #### Features:
 
-- 12 different pack(now)
+- 18 different pack(now)
 - Dark and light material color
 - Lots of different background and accent color
 - Theme with border and without border
