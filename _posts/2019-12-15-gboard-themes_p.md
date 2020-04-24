@@ -17,7 +17,7 @@ tags: gboard themes google morethemes gboardkeyboard keyboard custom themes
 - Install the Magisk module in the Magisk Manager (Magisk is root) and reboot phone.
 - After you installed the module (working on all magisk version) and rebooted the phone install the Theme Manager app.
 - Setting up the Rboard Theme Manager.
-- After you done the setting up, download my packs (Colors_Dark,Colors_Light,Colored_Keys,Style_Material,Swift_Material,Black_Themes,<br>Blue_Themes,Nord_Themes,Mix_Themey,Grey_Themes)
+- After you done the setting up, download my packs (Colors_Dark,Colors_Light,Colored_Keys,<br>Style_Material,Swift_Material,Black_Themes,<br>Blue_Themes,Nord_Themes,Mix_Themes,Grey_Themes,<br>Material_Oceans_Themes,Material_Grey,<br>White_Themes,Black_Themes_V2,Snowy,Colorful,<br>Material_Oceans_Lively,Redesign)
 - Apply Theme
 - Enjoy
 
