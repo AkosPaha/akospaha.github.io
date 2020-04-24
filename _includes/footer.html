@@ -46,6 +46,13 @@
         </a>
       </li>
     {% endif %}
+    {% if site.telegram_channel_url %}
+      <li>
+        <a href="{{ site.telegram_channel_url }}" class="icon alt fab fa-telegram-plane">
+          <span class="label">Telegram Channel</span>
+        </a>
+      </li>
+    {% endif %}
       <li>
         <a href="/feed.xml" class="icon alt fa fa-feed" >
           <span class="label">RSS-Feed</span>

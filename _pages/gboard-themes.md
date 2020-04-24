@@ -15,7 +15,7 @@ tags: gboards themes google morethemes
             <span class="label">GitHub</span></a>
         </li>
         <li>
-            <a href="https://t.me/paha_akos_channel" class="icon alt fa fa-telegram" target="_blank">
+            <a href="https://t.me/paha_akos_channel" class="icon alt fa fa-telegram-plane" target="_blank">
             <span class="label">Telegram</span></a>
         </li>
 <br><br>
@@ -86,6 +86,8 @@ tags: gboards themes google morethemes
             <h3>Downloads:</h3>
             <ul class="actions">
                 <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Material_ocean_lively.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel" class="button special">Telegram</a></li>
+
 <li>
 </li>
             </ul>
@@ -119,6 +121,7 @@ tags: gboards themes google morethemes
             <h3>Downloads:</h3>
             <ul class="actions">
                 <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/e3b73bfa7e339d8f6297650b81675838e36a4b32/Colorful.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel" class="button special">Telegram</a></li>
 <li>
 </li>
             </ul>
@@ -152,6 +155,7 @@ tags: gboards themes google morethemes
             <h3>Downloads:</h3>
             <ul class="actions">
                 <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/d723a1e776a168f42bcefd795ef4b68b65b688e9/Snowys.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel" class="button special">Telegram</a></li>
 <li>
 </li>
             </ul>
