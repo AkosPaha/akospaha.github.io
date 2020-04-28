@@ -32,10 +32,6 @@ tags: gboard themes google morethemes gboardkeyboard keyboard custom themes
 - Theme with border and without border
 - Different keyboard style(CM11 veu key,Gboard key, bottom accent color,etc..)
 
-#### Upcoming:
-
-- Nothing
-
 <br><br>
 <h4>License:</h4>
 Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="">LICENSE</a>
