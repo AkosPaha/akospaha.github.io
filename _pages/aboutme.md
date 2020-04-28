@@ -144,7 +144,7 @@ nav-menu: true
           </p>
           <ul class="actions">
             <li>
-              <a href="h_photography" class="button">Learn more</a>
+              <a href="photography" class="button">Read more</a>
             </li>
           </ul>
          </div>
