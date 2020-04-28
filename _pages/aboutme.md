@@ -96,7 +96,7 @@ nav-menu: true
           </p>
           <ul class="actions">
             <li>
-              <a href="https://akospaha.tk/projects/Techindeep-translate-and-post-writing/" class="button">Read more...</a>
+              <a href="https://akospaha.tk/projects/Techindeep-translate-and-post-writing/" class="button">Read more....</a>
             </li>
           </ul>
         </div>
@@ -144,7 +144,7 @@ nav-menu: true
           </p>
           <ul class="actions">
             <li>
-              <a href="photography" class="button">Read more</a>
+              <a href="photography" class="button">Read more....</a>
             </li>
           </ul>
          </div>
