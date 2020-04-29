@@ -59,7 +59,7 @@ tags: gboards themes google morethemes
             </ul>
         </div>
     </div>
-<br><br> <h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="">LICENSE</a>	    
+<br><br> <h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	    
 <h1>Previous Release:</h1>
     <div class="row 200%">
         <div class="6u 12u$(medium)">
