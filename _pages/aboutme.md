@@ -56,7 +56,7 @@ nav-menu: true
         </header>
         <p>
           - Testing custom roms and custom kernel and OFOX R10 recovery<br/>
-          - <a href="c_gboard-themes ">Creating Google keyboard themes</a><br/>
+          - <a href="gboard-themes ">Creating Google keyboard themes</a><br/>
           - Listening music<br />
           - Talking with friend<br />
           - <a href="https://www.instagram.com/akos_paha/">Photography</a><br/>
