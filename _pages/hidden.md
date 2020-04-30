@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hude
+title: Hidden
 nav-menu: false
 ---
 
