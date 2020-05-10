@@ -19,13 +19,15 @@ nav-menu: true
         <header class="major">
          <h2>Group & Channel Links:</h2>
        </header>
-        <p><a target="_blank" href="https://t.me/havoc_vince" class="button special">Havoc Vince Group</a></p>
-        <p><a target="_blank" href="https://t.me/officialcrvincewhyred" class="button special">CRDROID Vince & Whyred Group</a></p>
-        <p><a target="_blank" href="https://t.me/xtended_vince" class="button special">MSM X Vince Group</a></p>
-        <p><a target="_blank" href="https://t.me/unitrix_kernel" class="button special">Unitrix Kernel Vince Channel & Group</a></p>
-        <p>Volta(website)</p>
+        <p>
+        - <a target="_blank" href="https://t.me/havoc_vince" class="button special">Havoc Vince Group</a>
+        - <a target="_blank" href="https://t.me/officialcrvincewhyred" class="button special">CRDROID Vince & Whyred Group</a>
+        - <a target="_blank" href="https://t.me/xtended_vince" class="button special">MSM X Vince Group</a>
+        - <a target="_blank" href="https://t.me/unitrix_kernel" class="button special">Unitrix Kernel Vince Channel & Group</a>
+        - Volta(website)
+      <br/>
+        </p>
       </div>
-<br>
         </div>
         <div class="6u$ 12u$(medium)">
             <br>
