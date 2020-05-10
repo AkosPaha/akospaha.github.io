@@ -16,7 +16,6 @@ nav-menu: true
           data-position="center center"
         />
         </div>
-        </div>
       <div class="6u 12u$(medium)">
         <header class="major">
          <h2>Group & Channel Links:</h2>
@@ -29,7 +28,6 @@ nav-menu: true
           - Volta(website)<br/>
         </p>
       </div>
-    </div>
         <div class="6u$ 12u$(medium)">
             <br>
             <p>I started making logo as a hobby in an app called figma. They are made of simple layers and shapes.</p>
