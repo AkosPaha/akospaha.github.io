@@ -2,7 +2,6 @@
 layout: page
 title: Logo
 nav-menu: true
-tags: Logo Groups Channels Figma
 ---
 
 <div id="main" class="alt">
