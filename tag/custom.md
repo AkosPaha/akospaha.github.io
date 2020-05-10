@@ -1,6 +1,6 @@
 ---
 layout: tag-page
-title: "Tag: custom"
-tag: custom
+title: "Tag: Custom"
+tag: Custom
 robots: noindex
 ---

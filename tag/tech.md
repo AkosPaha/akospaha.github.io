@@ -1,6 +1,6 @@
 ---
 layout: tag-page
-title: "Tag: tech"
-tag: tech
+title: "Tag: Tech"
+tag: Tech
 robots: noindex
 ---

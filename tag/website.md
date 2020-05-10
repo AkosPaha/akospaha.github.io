@@ -1,6 +1,6 @@
 ---
 layout: tag-page
-title: "Tag: website"
-tag: website
+title: "Tag: Website"
+tag: Website
 robots: noindex
 ---

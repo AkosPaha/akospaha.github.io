@@ -1,6 +1,6 @@
 ---
 layout: tag-page
-title: "Tag: news"
-tag: news
+title: "Tag: News"
+tag: News
 robots: noindex
 ---

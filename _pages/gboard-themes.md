@@ -2,7 +2,7 @@
 layout: page
 title: Gboard Themes
 nav-menu: true
-tags: gboards themes google morethemes 
+tags: Gboards Themes Google Morethemes 
 ---
 
 <div id="main" class="alt">

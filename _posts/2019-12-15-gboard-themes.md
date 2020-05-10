@@ -6,7 +6,7 @@ image: /assets/images/gboardthemes.jpg
 project: false
 github: https://github.com/AkosPaha/Rboard-ColorsTheme
 permalink: /projects/:title/
-tags: gboard themes google morethemes gboardkeyboard keyboard custom themes
+tags: Gboard Themes Google Morethemes Gboardkeyboard Keyboard Custom Themes
 ---
 
 #### Introduction:

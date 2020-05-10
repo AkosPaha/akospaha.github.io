@@ -7,7 +7,7 @@ image: /assets/images/Tech.jpg
 website: https://Techindeep.com
 telegram: https://telegram.me/techindeep
 permalink: /projects/:title/
-tags: tech post website news site
+tags: Tech Post Website News Site
 ---
 
 #### Introduction:

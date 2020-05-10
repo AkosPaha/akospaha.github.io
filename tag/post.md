@@ -1,6 +1,6 @@
 ---
 layout: tag-page
-title: "Tag: post"
-tag: post
+title: "Tag: Post"
+tag: Post
 robots: noindex
 ---

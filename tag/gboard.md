@@ -1,6 +1,6 @@
 ---
 layout: tag-page
-title: "Tag: gboard"
-tag: gboard
+title: "Tag: Gboard"
+tag: Gboard
 robots: noindex
 ---

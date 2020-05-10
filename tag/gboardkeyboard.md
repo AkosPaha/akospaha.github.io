@@ -1,6 +1,6 @@
 ---
 layout: tag-page
-title: "Tag: gboardkeyboard"
-tag: gboardkeyboard
+title: "Tag: Gboardkeyboard"
+tag: Gboardkeyboard
 robots: noindex
 ---
