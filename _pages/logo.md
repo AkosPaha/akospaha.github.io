@@ -34,7 +34,7 @@ nav-menu: true
             <p>I started making logo as a hobby in an app called figma.They are made of simple layers and shapes.</p>
         </div>
     </div>
-   <br><br>
 </div>
+<br><br>
 <h4>License:</h4>
 Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>
