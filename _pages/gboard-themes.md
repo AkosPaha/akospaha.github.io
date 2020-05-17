@@ -31,6 +31,41 @@ tags: Gboards Themes Google Morethemes
     <div class="row 200%">
         <div class="6u 12u$(medium)">
 	<img
+          src="assets/images/desaturated_pack.jpg"
+          alt=""
+          data-position="center center"
+        />
+    <h2>Desaturated Pack:</h2>
+      <li>New desaturated colours</li>
+	  <li>Two type of icons</li>
+      - Default Google icons
+      - FAB substratum icons
+      <li>Based on Google Redesign pack</li> 
+<li>Download from Github</li>
+<li>Extract the zip</li>
+<li>After you can see others zip and file</li>
+<li>Select and paste to /system/etc/gboard_themes</li>
+<li>Open Rboard Manager App and apply the theme</li>
+<li>Or just download from the Rboard Manager app if you use this app</li><br>
+        </div>
+        <div class="6u$ 12u$(medium)">
+            <br><br><br>
+            <p><strong>File Name:</strong> Desaturated_pack.zip<br>
+            <strong>File Size:</strong>  2.36 MB<br></p>
+            <h3>Downloads:</h3>
+            <ul class="actions">
+                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Desaturated_pack.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel" class="button special">Telegram</a></li>
+<li>
+</li>
+            </ul>
+        </div>
+    </div>
+<br><br> <h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	    
+<h1>Previous Release:</h1>
+    <div class="row 200%">
+        <div class="6u 12u$(medium)">
+	<img
           src="assets/images/Redesign.png"
           alt=""
           data-position="center center"
@@ -127,7 +162,7 @@ tags: Gboards Themes Google Morethemes
             </ul>
         </div>
     </div>
-<h1>Previous Release:</h1>
+<h1>Older Release:</h1>
     <div class="row 200%">
         <div class="6u 12u$(medium)">
 	<img
@@ -161,7 +196,7 @@ tags: Gboards Themes Google Morethemes
             </ul>
         </div>
     </div>
-<h1>Previous Release:</h1>
+<h1>Older Release:</h1>
     <div class="row 200%">
         <div class="6u 12u$(medium)">
 	<img
