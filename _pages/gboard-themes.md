@@ -38,8 +38,8 @@ tags: Gboards Themes Google Morethemes
     <h2>Desaturated Pack:</h2>
       <li>New desaturated colours</li>
 	  <li>Two type of icons</li>
-      - Default Google icons
-      - FAB substratum icons
+             - Default Google icons<be>
+             - FAB substratum icons
       <li>Based on Google Redesign pack</li> 
 <li>Download from Github</li>
 <li>Extract the zip</li>
