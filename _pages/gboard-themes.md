@@ -120,7 +120,7 @@ tags: Gboards Themes Google Morethemes
             <strong>File Size:</strong>  1.73 MB<br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Material_ocean_lively.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha/Material-ocean-gboard-theme/raw/master/Material_ocean_lively.zip" class="button special">Github</a></li>
                 <li><a target="_blank" href="https://t.me/paha_akos_channel" class="button special">Telegram</a></li>
 
 <li>
