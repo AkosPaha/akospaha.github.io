@@ -117,7 +117,7 @@ tags: Gboards Themes Google Morethemes
         <div class="6u$ 12u$(medium)">
             <br><br><br>
             <p><strong>File Name:</strong> Material_ocean_lively.zip<br>
-            <strong>File Size:</strong>  1.73 MB<br></p>
+            <strong>File Size:</strong>  2.2 MB<br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
                 <li><a target="_blank" href="https://github.com/AkosPaha/Material-ocean-gboard-theme/raw/master/Material_ocean_lively.zip" class="button special">Github</a></li>
