@@ -43,7 +43,7 @@ tags: Gboards Themes Google Morethemes
 - The 50% opacity theme cannot be used with the corner magisk module because the module breaks the opacity.//</li>
 • Without a module, the theme works perfectly well.<br>
 • If you don't use the module then both themes type working fine.<br>
-<li>///Note:///</li>
+<br><li>///Note:///</li>
 • There is no kind of fix option, simply the corner round too so it's breaks the opacity.<br>
 • I also tried 50% opacity on another theme maker theme with the module and it's also breaks.<br>
 ===============================================<br>
