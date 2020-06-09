@@ -39,11 +39,11 @@ tags: Gboards Themes Google Morethemes
       <li>Based on Dracula Themes colors</li>
 	  <li>Background with Redesign top round features</li><br>
 ===================================<br>
-// - The package includes two types of themes. A 50% opacity and a fully filled theme.
-- The 50% opacity theme cannot be used with the corner magisk module because the module breaks the opacity.//<br>
+<li>// - The package includes two types of themes. A 50% opacity and a fully filled theme.
+- The 50% opacity theme cannot be used with the corner magisk module because the module breaks the opacity.//</li><br>
 • Without a module, the theme works perfectly well.<br>
 • If you don't use the module then both themes type working fine.<br>
-///Note:///<br>
+<li>///Note:///</li><br>
 • There is no kind of fix option, simply the corner round too so it's breaks the opacity.<br>
 • I also tried 50% opacity on another theme maker theme with the module and it's also breaks.<br>
 ===================================<br>
