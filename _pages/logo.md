@@ -25,6 +25,7 @@ nav-menu: true
           - <a target="_blank" href="https://t.me/officialcrvincewhyred">CRDROID Vince & Whyred Group</a><br/>
           - <a target="_blank" href="https://t.me/xtended_vince">MSM X Vince Group</a><br />
           - <a target="_blank" href="https://t.me/unitrix_kernel">Unitrix Kernel Vince Channel & Group</a><br />
+          - <a target="_blank" href="https://t.me/paha_akos_channel">Channel of AkosPaha</a><br />
           - Volta(website)<br/>
         </p>
       </div>
