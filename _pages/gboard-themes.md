@@ -24,10 +24,52 @@ tags: Gboards Themes Google Morethemes
 <li>Install the Magisk module in the Magisk Manager (Magisk is root) and reboot your phone</li> 
 <li>After you installed the module and rebooted the phone install the theme Manager app</li>
 <li>Setting up the Rboard Theme Manager App</li>
-<li>After you done the setting up the app, download my packs (Colors_Dark,Colors_Light,Colored_Keys,<br>Style_Material,Swift_Material,Black_Themes,<br>Blue_Themes,Nord_Themes,Mix_Themes,Grey_Themes,<br>Material_Oceans_Themes,Material_Grey,<br>White_Themes,Black_Themes_V2,Snowy,Colorful,<br>Material_Oceans_Lively,Redesign)</li>
+<li>After you done the setting up the app, download my packs (Colors_Dark,Colors_Light,Colored_Keys,<br>Style_Material,Swift_Material,Black_Themes,<br>Blue_Themes,Nord_Themes,Mix_Themes,Grey_Themes,<br>Material_Oceans_Themes,Material_Grey,<br>White_Themes,Black_Themes_V2,Snowy,Colorful,<br>Material_Oceans_Lively,Redesign,Etc..)</li>
 <li>Apply Themes</li>
 <li>Enjoy</li>
 <h1>Latest Release:</h1>
+    <div class="row 200%">
+        <div class="6u 12u$(medium)">
+	<img
+          src="assets/images/dracula.jpg"
+          alt=""
+          data-position="center center"
+        />
+    <h2>Dracula Pack:</h2>
+      <li>Based on Dracula Themes colors</li>
+	  <li>Background with Redesign top round features</li>
+      <li>===================================<br>
+// - The package includes two types of themes. A 50% opacity and a fully filled theme.
+- The 50% opacity theme cannot be used with the corner magisk module because the module breaks the opacity.//<br>
+• Without a module, the theme works perfectly well.<br>
+• If you don't use the module then both themes type working fine.<br>
+///Note:///<br>
+• There is no kind of fix option, simply the corner round too so it's breaks the opacity.<br>
+• I also tried 50% opacity on another theme maker theme with the module and it's also breaks.<br>
+===================================</li>
+<br>
+<br>
+<li>Extract the zip</li>
+<li>After you can see others zip and file</li>
+<li>Select and paste to /system/etc/gboard_themes</li>
+<li>Open Rboard Manager App and apply the theme</li>
+<li>Or just download from the Rboard Manager app if you use this app</li><br>
+        </div>
+        <div class="6u$ 12u$(medium)">
+            <br><br><br>
+            <p><strong>File Name:</strong> Dracula_Theme_Pack.zip<br>
+            <strong>File Size:</strong>  1.27 MB<br></p>
+            <h3>Downloads:</h3>
+            <ul class="actions">
+                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Dracula_Theme_Pack.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel" class="button special">Telegram</a></li>
+<li>
+</li>
+            </ul>
+        </div>
+    </div>
+<br><br> <h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	    
+<h1>Previous Release:</h1>
     <div class="row 200%">
         <div class="6u 12u$(medium)">
 	<img
