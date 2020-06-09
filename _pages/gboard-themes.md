@@ -37,7 +37,7 @@ tags: Gboards Themes Google Morethemes
         />
     <h2>Dracula Pack:</h2>
       <li>Based on Dracula Themes colors</li>
-	  <li>Background with Redesign top round features</li><br>
+	  <li>Background with Redesign top round features</li>
 ===============================================<br>
 <li>// - The package includes two types of themes. A 50% opacity and a fully filled theme.
 - The 50% opacity theme cannot be used with the corner magisk module because the module breaks the opacity.//</li>
