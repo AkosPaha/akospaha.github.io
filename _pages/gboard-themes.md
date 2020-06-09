@@ -38,7 +38,7 @@ tags: Gboards Themes Google Morethemes
     <h2>Dracula Pack:</h2>
       <li>Based on Dracula Themes colors</li>
 	  <li>Background with Redesign top round features</li>
-      <li>===================================<br>
+===================================<br>
 // - The package includes two types of themes. A 50% opacity and a fully filled theme.
 - The 50% opacity theme cannot be used with the corner magisk module because the module breaks the opacity.//<br>
 • Without a module, the theme works perfectly well.<br>
@@ -46,9 +46,10 @@ tags: Gboards Themes Google Morethemes
 ///Note:///<br>
 • There is no kind of fix option, simply the corner round too so it's breaks the opacity.<br>
 • I also tried 50% opacity on another theme maker theme with the module and it's also breaks.<br>
-===================================</li>
+===================================
 <br>
-<br>
+	  <h2>How to apply:</h2>
+      <li>Download from Github</li>
 <li>Extract the zip</li>
 <li>After you can see others zip and file</li>
 <li>Select and paste to /system/etc/gboard_themes</li>
@@ -82,7 +83,8 @@ tags: Gboards Themes Google Morethemes
 	  <li>Two type of icons</li>
              - Default Google icons<br>
              - FAB substratum icons
-      <li>Based on Google Redesign pack</li> 
+      <li>Based on Google Redesign pack</li><br>
+      	  <h2>How to apply:</h2>
 <li>Download from Github</li>
 <li>Extract the zip</li>
 <li>After you can see others zip and file</li>
@@ -115,7 +117,8 @@ tags: Gboards Themes Google Morethemes
     <h2>Redesign Pack:</h2>
       <li>Made with Phone</li>
 	  <li>Default Themes is the light theme (Ported google Redesign hidden theme)</li>
-	  <li>3 different Themes: (Light, Dark, Black)</li> 
+	  <li>3 different Themes: (Light, Dark, Black)</li><br> 
+      	  <h2>How to apply:</h2>
 <li>Download from Github</li>
 <li>Extract the zip</li>
 <li>After you can see others zip and file</li>
@@ -148,7 +151,8 @@ tags: Gboards Themes Google Morethemes
     <h2>Material Oceans Themes Lively:</h2>
       <li>Made with Phone</li>
 	  <li>Different lively accent colors</li>
-	  <li>All Colors based on the Material Oceans color and previous Material Oceans Themes. Thank you the colors and the access for use these colors for<a href="https://github.com/Blacksuan19"> Blacksuan19 Github </a> And <a href="https://blacksuan19.me"> Him website </a>(Thank you for website template too)</li> 
+	  <li>All Colors based on the Material Oceans color and previous Material Oceans Themes. Thank you the colors and the access for use these colors for<a href="https://github.com/Blacksuan19"> Blacksuan19 Github </a> And <a href="https://blacksuan19.me"> Him website </a>(Thank you for website template too)</li><br> 
+      	  <h2>How to apply:</h2>
 <li>Download from Github</li>
 <li>Extract the zip</li>
 <li>After you can see others zip and file</li>
@@ -164,7 +168,6 @@ tags: Gboards Themes Google Morethemes
             <ul class="actions">
                 <li><a target="_blank" href="https://github.com/AkosPaha/Material-ocean-gboard-theme/raw/master/Material_ocean_lively.zip" class="button special">Github</a></li>
                 <li><a target="_blank" href="https://t.me/paha_akos_channel" class="button special">Telegram</a></li>
-
 <li>
 </li>
             </ul>
@@ -182,7 +185,7 @@ tags: Gboards Themes Google Morethemes
       <li>Made with Phone</li>
 	  <li>Accent color same as text color</li>
 	  <li>Minimal themes</li>
-      <li>Good grey color with different accent</li>
+      <li>Good grey color with different accent</li><br>
 	  <h2>How to apply:</h2>
 <li>Download from Github</li>
 <li>Extract the zip</li>
