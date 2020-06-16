@@ -458,7 +458,7 @@ tags: Gboards Themes Google Morethemes
         <div class="6u$ 12u$(medium)">
             <br><br><br>
             <p><strong>File Name:</strong> Nord_Themes.zip<br>
-            <strong>File Size:</strong> 344 KB<br></p>
+            <strong>File Size:</strong> 346 KB<br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
                 <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Nord_Themes.zip" class="button special">Github</a></li>
