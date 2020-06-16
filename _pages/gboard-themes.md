@@ -58,7 +58,7 @@ tags: Gboards Themes Google Morethemes
         <div class="6u$ 12u$(medium)">
             <br><br><br>
             <p><strong>File Name:</strong> Dracula_Theme_Pack.zip<br>
-            <strong>File Size:</strong>  1.27 MB<br></p>
+            <strong>File Size:</strong>  1.66 MB<br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
                 <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Dracula_Theme_Pack.zip" class="button special">Github</a></li>
