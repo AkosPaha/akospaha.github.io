@@ -13,7 +13,7 @@ nav-menu: true
 <br><br>
 <br><h4> <a href="" target="_blank"> What do I use for photography: </a> </h4>
 <li> Mobile: Xiaomi Redmi 5 Plus (Vince), 12MP F2.2 OV12A10 </li>
-<li> OS: Android 10 Havoc 3.5 Official </li>
+<li> OS: Android 10 Havoc 3.6 Official </li>
 <li> Camera app: Google Camera 7.3.020 (Need Android 9 or Android 10)</li>
 <li> Edit app: Lightroom CC Mobile Premium 5.2.2</li>
 
