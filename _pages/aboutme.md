@@ -10,10 +10,10 @@ nav-menu: true
   <section id="one">
     <div class="inner">
       <header class="major">
-        <h2>Ákos Paha</h2>
+        <h2>Akos Paha</h2>
       </header>
       <p>
-        18 years old custom roms, custom kernels, custom TWRP recovery (OFOX R10) tester and Google Keyboard themes maker. I'm a 12th grade high school student. This school year I graduate. I take pictures of my spare time, translate apps and stuff.
+        18 years old custom roms, custom kernels tester and Google Keyboard themes maker. I'm a 12th grade high school student. This school year I graduate. I take pictures of my spare time, translate apps and stuff.
       </p>
     </div>
   </section>
@@ -55,7 +55,7 @@ nav-menu: true
           <h2>Hobbies</h2>
         </header>
         <p>
-          - Testing custom roms and custom kernel and OFOX R10 recovery<br/>
+          - Testing custom roms and custom kernel<br/>
           - <a href="gboard-themes ">Creating Google keyboard themes</a><br/>
           - Listening music<br />
           - Talking with friend<br />

@@ -1,13 +1,13 @@
 # site settings
-title: AkosPaha
+title: Akos Paha
 subtitle:
 email: contact@akospaha.tk
 phone: 
 description: Custom Roms, Custom Kernels, Custom TWRP recovery (OFOX R10) Tester, Gboard Themes Maker and hobby photographer
-landing-title: Hello, My Name is Ákos Paha
+landing-title: Hello, My Name is Akos Paha
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author: AkosPaha
+author: Akos Paha
 street_address:
 city: Budapest
 state: 
