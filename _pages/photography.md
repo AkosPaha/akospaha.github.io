@@ -18,7 +18,7 @@ nav-menu: true
     <div class="row 200%">
         <div class="6u 12u$(medium)">
 	<img
-          width: 50%
+          width="50%"
           src="assets/images/gcam_parrot.jpg"
           alt=""
           data-position="center center"
