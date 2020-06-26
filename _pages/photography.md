@@ -33,13 +33,11 @@ I don't found gcam 7.3 which support it</li>
         </div>
         <div class="6u$ 12u$(medium)">
             <br><br><br>
-            <p><strong>File Name:</strong> Dracula_Theme_Pack.zip<br>
-            <strong>File Size:</strong>  1.66 MB<br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
                 <li><a target="_blank" href="https://drive.google.com/folderview?id=1-CPTnK7nDoIR5PZp8ThAXvHIc_lAwosR" class="button special">Google Camera 7.3.020 V8</a></li>
-                <br>
-                <li><a target="_blank" href="https://drive.google.com/folderview?id=14QSMn1IOrKH2QGzZFxyYFG8I3b41NDtW" class="button special">Here my setting</a></li>
+               <br><br><br>
+               <li><a target="_blank" href="https://drive.google.com/folderview?id=14QSMn1IOrKH2QGzZFxyYFG8I3b41NDtW" class="button special">Here my setting</a></li>
 <li>
 </li>
             </ul>
