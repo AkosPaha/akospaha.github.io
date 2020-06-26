@@ -15,7 +15,7 @@ nav-menu: true
    <li> Camera app: Google Camera 7.3.020 (Need Android 9 or Android 10)</li>
    <li> Edit app: Lightroom CC Mobile Premium 5.3</li>
 <h1>Parrot Gcam 7.3.020:</h1>
-    <div class="row 100%">
+    <div class="row 200%">
         <div class="6u 12u$(medium)">
 	<img
           src="assets/images/gcam_parrot.jpg"
