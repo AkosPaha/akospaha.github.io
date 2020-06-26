@@ -6,18 +6,13 @@ nav-menu: true
 
 <div id="main" class="alt">
     <div class="inner">
-  <ul class="icons">
-        <li>
-            <a href="https://instagram.com/akos_paha" class="icon alt fa fa-instagram" target="_blank">
-            <span class="label">Instagram</span></a>
-        </li>
-   <br><br>
+    <br><br>
    <br><h4> <a href="" target="_blank"> What do I use for photography: </a> </h4>
    <li> Mobile: Xiaomi Redmi 5 Plus (Vince), 12MP F2.2 OV12A10 </li>
    <li> OS: Android 10 Havoc 3.6 Official </li>
    <li> Camera app: Google Camera 7.3.020 (Need Android 9 or Android 10)</li>
    <li> Edit app: Lightroom CC Mobile Premium 5.3</li>
-   <br>
+<br><br>
 <h2>Parrot Google Camera 7.3.020:</h2>
     <div class="row 200%">
         <div class="6u 12u$(medium)">
