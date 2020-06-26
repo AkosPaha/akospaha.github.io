@@ -15,11 +15,11 @@ nav-menu: true
 <li> Mobile: Xiaomi Redmi 5 Plus (Vince), 12MP F2.2 OV12A10 </li>
 <li> OS: Android 10 Havoc 3.6 Official </li>
 <li> Camera app: Google Camera 7.3.020 (Need Android 9 or Android 10)</li>
-<li> Edit app: Lightroom CC Mobile Premium 5.2.2</li>
+<li> Edit app: Lightroom CC Mobile Premium 5.3</li>
 
 <h4> How to:</h4> 
 
-<li>Download the <a href="https://drive.google.com/folderview?id=1-CPTnK7nDoIR5PZp8ThAXvHIc_lAwosR"> Google Camera (Latest 7.3.020 V7 Stable (Working on all device I guess)</a></li>
+<li>Download the <a href="https://drive.google.com/folderview?id=1-CPTnK7nDoIR5PZp8ThAXvHIc_lAwosR"> Google Camera (Latest 7.3.020 V8 Stable (Working on all device I guess)</a></li>
 <li>Install(Need Android 9 or Android 10 + <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwic1vu_lcbmAhWM6qQKHeIjDSgQFjAAegQIBhAB&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.airbeat.device.inspector%26hl%3Dhu&usg=AOvVaw3gEAe5p4qHtFogeASeA2-B">Check Camera2api need "Level 3")</a></li> 
 <li>Setting up the App<a href="https://drive.google.com/folderview?id=14QSMn1IOrKH2QGzZFxyYFG8I3b41NDtW">(Here my setting)</a></li>
 <li>When you use the front camera then need disable full HDR+...
