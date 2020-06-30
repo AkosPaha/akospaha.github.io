@@ -28,7 +28,7 @@ nav-menu: true
 <li>Install(Need Android 9 or Android 10+<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwic1vu_lcbmAhWM6qQKHeIjDSgQFjAAegQIBhAB&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.airbeat.device.inspector%26hl%3Dhu&usg=AOvVaw3gEAe5p4qHtFogeASeA2-B">Check Camera2api "Level 3")</a></li> 
 <li>Setting up the App</li>
 <li>When you use the front camera then need disable full HDR+...<br>
-I don't found gcam 7.3 which support it</li>
+I don't found gcam 7.3 which support it on Redmi 5 Plus (Vince)</li>
 <li>Enjoy</li>
 <li>Creating lots of good picture :)</li>
         </div>
