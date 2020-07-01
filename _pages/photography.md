@@ -32,7 +32,7 @@ I don't found gcam 7.3 which support it on Redmi 5 Plus (Vince)</li>
 <li>Enjoy</li>
 <li>Creating lots of good picture :)</li>
         </div>
-        <div class="6u$ 12u$(medium)">
+        <div class="6u$ 12u$(medium)" class="icons">
             <br><br><br>
             <h3>Downloads:</h3>
             <ul class="actions">
