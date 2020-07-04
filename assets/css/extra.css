@@ -44,8 +44,9 @@
 .circle {
   stroke: #ffffff;
 }
+
 .circle:hover {
-  stroke: #ff4151;
+  stroke: #9bf1ff;
 }
 .percentage {
   text-transform: uppercase;
