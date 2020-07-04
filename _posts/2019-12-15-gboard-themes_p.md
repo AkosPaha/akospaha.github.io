@@ -4,7 +4,6 @@ title: Gboard Themes
 description: Gboard Themes for android
 image: /assets/images/gboardthemes.jpg
 project: true
-github: https://github.com/AkosPaha/Rboard-ColorsTheme
 permalink: /projects/:title/
 tags: Gboard Themes Google Morethemes Gboardkeyboard Keyboard Custom Themes
 ---

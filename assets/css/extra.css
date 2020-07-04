@@ -42,11 +42,11 @@
   }
 }
 .circle {
-  stroke: #fff;
+  stroke: #ffffff;
 }
 .percentage {
   text-transform: uppercase;
-  fill: #ffffffb2;
+  fill: #ffffff;
   font-weight: 600;
   font-family: sans-serif;
   font-size: 0.15em;
