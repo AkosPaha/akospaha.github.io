@@ -2,23 +2,25 @@
 title: Akos Paha
 subtitle:
 email: contact@akospaha.tk
-phone: 
 description: Custom Roms, Custom Kernels Tester, Gboard Themes Maker and hobby photographer
 landing-title: Hello, My Name is Akos Paha
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Akos Paha
-street_address:
+street_address: 
 city: Budapest
-state: 
-zip_code: 
+state: Municipality of Budapest
+zip_code: 1123
 country: Hungary
+logo: 'assets/images/logo.jpg' # has to be a jpg image
+about-text: 18 years old custom roms, custom kernels tester and Google Keyboard theme creator. I'm a 12th grade high school student. This school year I graduate. I take pictures of my spare time, translate apps and make keyboard themes.
 
-# homepage tiles
+# homepage config
 tiles-count: 4
 post-tiles: true
 projects-tiles: true
-home-about: true
+home-about: false
+
 # social settings
 disqus: 'akospaha-tk'
 facebook_url: https://www.facebook.com/Paha.Akos
@@ -33,10 +35,10 @@ xda_url: https://forum.xda-developers.com/member.php?s=ce4ded8b84429ed989b6a7bdb
 
 # skills widget
 skills:
-  Designing: "45"
-  HTML: "75"
+  Designing: "50"
+  HTML: "80"
   C#: "20"
-  C++: "10"
+  C++: "15"
   Office: "95"
   Testing: "100"
   Helping: "100"
