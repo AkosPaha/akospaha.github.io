@@ -3,7 +3,7 @@ layout: post
 title: Techindeep website
 description: Tech site for everyone
 project: false
-image: /assets/images/Tech.jpg
+image: /assets/images/Tech.png
 website: https://Techindeep.com
 telegram: https://telegram.me/techindeep
 permalink: /projects/:title/

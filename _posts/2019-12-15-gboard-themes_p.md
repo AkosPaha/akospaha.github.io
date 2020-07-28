@@ -2,7 +2,7 @@
 layout: post
 title: Gboard Themes
 description: Gboard Themes for android
-image: /assets/images/gboardthemes.jpg
+image: /assets/images/gboardthemes.png
 project: true
 permalink: /projects/:title/
 tags: Gboard Themes Google Morethemes Gboardkeyboard Keyboard Custom Themes

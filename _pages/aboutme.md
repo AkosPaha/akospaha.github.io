@@ -47,7 +47,7 @@ nav-menu: true
     <div class="row 200%">
       <div class="6u 12u$(medium)">
         <span class="image fit">
-          <img src="assets/images/folio/2.jpg" />
+          <img src="assets/images/folio/2.png" />
         </span>
       </div>
       <div class="6u 12u$(medium)">
@@ -81,7 +81,7 @@ nav-menu: true
   <section>
       <a href="" class="image">
         <img
-          src="assets/images/Tech.jpg"
+          src="assets/images/Tech.png"
           alt=""
           data-position="center center"
         />
@@ -105,7 +105,7 @@ nav-menu: true
   <section>
       <a href="" class="image">
         <img
-          src="assets/images/gboardthemes.jpg"
+          src="assets/images/gboardthemes.png"
           alt=""
           data-position="center center"
         />

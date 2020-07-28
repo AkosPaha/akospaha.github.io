@@ -31,7 +31,7 @@ tags: Gboards Themes Google Morethemes
     <div class="row 200%">
         <div class="6u 12u$(medium)">
 	<img
-          src="assets/images/darkgrey.jxr"
+          src="assets/images/darkgrey.png"
           alt=""
           data-position="center center"
         />
@@ -65,7 +65,7 @@ tags: Gboards Themes Google Morethemes
     <div class="row 200%">
         <div class="6u 12u$(medium)">
 	<img
-          src="assets/images/dracula.jpg"
+          src="assets/images/dracula.png"
           alt=""
           data-position="center center"
         />
@@ -107,7 +107,7 @@ tags: Gboards Themes Google Morethemes
     <div class="row 200%">
         <div class="6u 12u$(medium)">
 	<img
-          src="assets/images/desaturated_pack.jpg"
+          src="assets/images/desaturated_pack.png"
           alt=""
           data-position="center center"
         />
@@ -568,7 +568,7 @@ tags: Gboards Themes Google Morethemes
     <div class="row 200%">
       <div class="6u 12u$(medium)">
 	      <img
-          src="assets/images/gboardthemes2.jpg"
+          src="assets/images/gboardthemes2.png"
           alt=""
           data-position="center center"
         />

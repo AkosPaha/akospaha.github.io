@@ -18,7 +18,7 @@ nav-menu: true
         <div class="6u 12u$(medium)">
 	<img
           width="75%"
-          src="assets/images/gcam_parrot1.jpg"
+          src="assets/images/gcam_parrot1.png"
           alt=""
           data-position="center center"
         />      
@@ -50,7 +50,7 @@ I don't found gcam 7.4 which support it on Redmi 5 Plus (Vince)</li>
         <div class="6u 12u$(medium)">
 	<img
           width="75%"
-          src="assets/images/gcam_parrot.jpg"
+          src="assets/images/gcam_parrot.png"
           alt=""
           data-position="center center"
         />      
