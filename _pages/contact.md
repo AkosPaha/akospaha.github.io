@@ -39,12 +39,12 @@ nav-menu: true
         </div>
       </section>
       <section>
-        <div class="contact-method">
-          <span class="icon alt fa-phone"></span>
-          <h3>Phone</h3>
-          <span>{{ site.phone }}</span>
-        </div>
-      </section>
+    <div class="contact-method">
+      <span class="icon alt fa-telegram"></span>
+      <h3>Telegram</h3>
+      <span><a href="{{ site.telegram_url }}">{{ site.telegram_url | split: '/' | last | capitalize }}</a></span>
+    </div>
+  </section>
       <section>
         <div class="contact-method">
           <span class="icon alt fa-home"></span>
