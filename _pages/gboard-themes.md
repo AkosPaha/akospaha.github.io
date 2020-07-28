@@ -31,7 +31,7 @@ tags: Gboards Themes Google Morethemes
     <div class="row 200%">
         <div class="6u 12u$(medium)">
 	<img
-          src="assets/images/darkgrey.jpg"
+          src="assets/images/darkgrey.jp2"
           alt=""
           data-position="center center"
         />
