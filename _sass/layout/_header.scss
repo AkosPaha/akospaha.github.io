@@ -77,6 +77,7 @@
 				line-height: inherit;
 				padding: 0 0.75em;
 				position: relative;
+				vertical-align: middle;
 
 				&:last-child {
 					padding-right: 1.5em;
@@ -96,6 +97,7 @@
 						position: absolute;
 						right: 1.5em;
 						top: 0;
+						vertical-align: middle;
 						width: 24px;
 					}
 
@@ -243,53 +245,4 @@
 				}
 			}
 		}
-	}
-	input[type=checkbox]{
-		height: 0;
-		width: 0;
-		visibility: hidden;
-	}
-	
-	label {
-		cursor: pointer;
-		text-indent: -9999px;
-		width: 4em;
-		height: 2em;
-		background: grey;
-		display: block;
-		border-radius: 100px;
-		position: relative;
-	}
-	
-	label:after {
-		content: '';
-		position: absolute;
-		top: 4px;
-		left: 5px;
-		width: 1.5em;
-		height: 1.5em;
-		background: #fff;
-		border-radius: 90px;
-		transition: 0.3s;
-	}
-	
-	input:checked + label {
-		background: #bada55;
-	}
-	
-	input:checked + label:after {
-		left: calc(100% - 5px);
-		transform: translateX(-100%);
-	}
-	
-	label:active:after {
-		width: 1em;
-	}
-	
-	
-	body {
-		display: flex;
-		justify-content: center;
-		align-items: center;
-		height: 100vh;
 	}
