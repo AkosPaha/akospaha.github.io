@@ -6,8 +6,7 @@ nav-menu: true
 
 <div id="main" class="alt">
     <div class="inner">
-    <br><br>
-   <br><h4> <a href="" target="_blank"> What do I use for photography:</a></h4>
+   <h4><a href="" target="_blank"> What do I use for photography:</a></h4>
    <li> Mobile: Xiaomi Redmi 5 Plus (Vince), 12MP F2.2 OV12A10 </li>
    <li> OS: Android 10 Havoc OS 3.7 Official </li>
    <li> Camera app: Google Camera 7.4.104 V3 (Need Android 10 or newer)</li>
@@ -37,7 +36,7 @@ I don't found gcam 7.4 which support it on Redmi 5 Plus (Vince)</li>
             <br><br><br>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://drive.google.com/drive/folders/12NNC3ybPyLBE75aE_U-LJsaaZu7Dexxg?usp=sharing" class="button special">Google Camera 7.4.104 V2</a></li>
+                <li><a target="_blank" href="https://drive.google.com/drive/folders/12NNC3ybPyLBE75aE_U-LJsaaZu7Dexxg?usp=sharing" class="button special">Google Camera 7.4.104 V3</a></li>
                <br><br>
                <li><a target="_blank" href="https://drive.google.com/drive/folders/1_hvO1fkD6-od3ec_v1UJYZJ0WYXJFyVB?usp=sharing" class="button special">Here my setting</a></li>
 <li>
