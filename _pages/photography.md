@@ -3,14 +3,13 @@ layout: page
 title: Photography
 nav-menu: true
 ---
-
 <div id="main" class="alt">
     <div class="inner">
    <h4><a href="" target="_blank"> What do I use for photography:</a></h4>
-   <li> Mobile: Xiaomi Redmi 5 Plus (Vince), 12MP F2.2 OV12A10 </li>
-   <li> OS: Android 10 Havoc OS 3.7 Official </li>
-   <li> Camera app: Google Camera 7.4.104 V3 (Need Android 10 or newer)</li>
-   <li> Edit app: Lightroom CC Mobile Premium 5.3.1</li>
+   <li>Mobile: Xiaomi Redmi 5 Plus (Vince), 12MP F2.2 OV12A10 </li>
+   <li>Android OS: Android 10 Havoc OS 3.7 Official</li>
+   <li>Camera app: Google Camera 7.4.104 V3 (Need Android 10 or newer)</li>
+   <li>Edit app: Lightroom CC Mobile Premium 5.3.1</li>
 <br><br>
 <h2>Parrot Google Camera 7.4.104:</h2>
     <div class="row 200%">
@@ -22,7 +21,7 @@ nav-menu: true
           data-position="center center"
         />      
     <br><br>
-    <h2> How to:</h2>
+    <h2>How to:</h2>
     <li>Download the Google Camera (Latest 7.4.104 V3 Stable <br> (Working on all device I guess)</li>
 <li>Install Google Camera (Only for Android 10+)</li>
 <li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwic1vu_lcbmAhWM6qQKHeIjDSgQFjAAegQIBhAB&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.airbeat.device.inspector%26hl%3Dhu&usg=AOvVaw3gEAe5p4qHtFogeASeA2-B">Check Camera2api "Level 3")</a></li> 
@@ -54,7 +53,7 @@ I don't found gcam 7.4 which support it on Redmi 5 Plus (Vince)</li>
           data-position="center center"
         />      
     <br><br>
-    <h2> How to:</h2>
+    <h2>How to:</h2>
     <li>Download the Google Camera (Latest 7.3.020 V8 Stable <br> (Working on all device I guess)</li>
 <li>Install Google Camera (Need Android 9 or Android 10+)</li>
 <li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwic1vu_lcbmAhWM6qQKHeIjDSgQFjAAegQIBhAB&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.airbeat.device.inspector%26hl%3Dhu&usg=AOvVaw3gEAe5p4qHtFogeASeA2-B">Check Camera2api "Level 3")</a></li> 
@@ -76,4 +75,4 @@ I don't found gcam 7.3 which support it on Redmi 5 Plus (Vince)</li>
             </ul>
         </div>
     </div>
-<br><br> <h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	    
+<br><h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	    
