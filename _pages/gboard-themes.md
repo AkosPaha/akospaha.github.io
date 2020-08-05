@@ -31,6 +31,40 @@ tags: Gboards Themes Google Morethemes
     <div class="row 200%">
         <div class="6u 12u$(medium)">
 	<img
+          src="assets/images/pitchblack.jpg"
+          alt=""
+          data-position="center center"
+        />
+    <h2>PitchBlack Pack:</h2>
+      <li>Using #000000 as Background</li>
+      <li>Using PitchBlack edge color line</li>
+	  <li>New Dark and Enter button accent color Usage</li><br>
+<h2>How to apply:</h2>
+<li>Download from Github</li>
+<li>Extract the zip</li>
+<li>After you can see others zip and file</li>
+<li>Select and paste to /system/etc/gboard_themes</li>
+<li>Open Rboard Manager App and apply the theme</li>
+<li>Or just download from the Rboard Manager app if you use this app</li><br>
+        </div>
+        <div class="6u$ 12u$(medium)">
+            <br><br><br>
+            <p><strong>File Name:</strong> PitchBlack.zip<br>
+            <strong>File Size:</strong>  291 KB<br></p>
+            <h3>Downloads:</h3>
+            <ul class="actions">
+                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/PitchBlack.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel" class="button special">Telegram</a></li>
+<li>
+</li>
+            </ul>
+        </div>
+    </div>
+<br><br> <h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	    
+<h1>Previous Release:</h1>
+    <div class="row 200%">
+        <div class="6u 12u$(medium)">
+	<img
           src="assets/images/darkgrey.png"
           alt=""
           data-position="center center"
