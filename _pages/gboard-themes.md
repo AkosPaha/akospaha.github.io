@@ -8,7 +8,7 @@ tags: Gboards Themes Google Morethemes
 <div id="main" class="alt">
     <div class="inner">
     <h3>About:</h3>
-    <p> Some Gboard Themes for android. Need Magisk root for use the themes. (Need magisk module (Thanks the module for RKBD) <a href="https://t.me/gboardthemes/44316"> Module Link</a>) + The Rboard manager app (Thanks the app for Peter (DerTyp7214) <a href="https://github.com/DerTyp7214/Rboard-Theme-Manager/releases"> App Link</a>)</p>
+    <p> Some Gboard Themes for android. Need Magisk root for use the themes. (Need the Rboard manager app (Thanks the app for RadekBledowski (RKBDI), Marcin Slusarek (Nylonw) and Peter (DerTyp7214) <a href="https://t.me/rkbdigboard/1018"> App Link</a>))</p>
     <ul class="icons">
         <li>
             <a href="https://github.com/AkosPaha/Rboard-ColorsTheme" class="icon alt fa fa-github" target="_blank">
@@ -20,9 +20,10 @@ tags: Gboards Themes Google Morethemes
         </li>
 <br><br>
     </ul><h4> How to apply:</h4> 
-<li>Download the <a href="https://t.me/gboardthemes/44316">Rboard Magisk Module</a> and the <a href="https://github.com/DerTyp7214/Rboard-Theme-Manager/releases"> Rboard Themes Manager app</a></li>
-<li>Install the Magisk module in the Magisk Manager (Magisk is root) and reboot your phone</li> 
-<li>After you installed the module and rebooted the phone install the theme Manager app</li>
+<li>Download the <a href="https://t.me/rkbdigboard/1018"> Rboard Themes Manager app</a></li>
+<li>Install the Rboard Theme Manager app apk</li> 
+<li>Open the Rboard Theme Manager (Grant Root and allow storage permission)</li>
+<li>Reboot</li>
 <li>Setting up the Rboard Theme Manager App</li>
 <li>After you done the setting up the app, download my packs (Colors_Dark,Colors_Light,Colored_Keys,<br>Style_Material,Swift_Material,Black_Themes,<br>Blue_Themes,Nord_Themes,Mix_Themes,Grey_Themes,<br>Material_Oceans_Themes,Material_Grey,<br>White_Themes,Black_Themes_V2,Snowy,Colorful,<br>Material_Oceans_Lively,Redesign,Etc..)</li>
 <li>Apply Themes</li>
