@@ -17,7 +17,7 @@ tags: Gboards Themes Google Morethemes
         <li>
             <a href="https://t.me/paha_akos_channel" class="icon alt fa fa-telegram-plane" target="_blank">
             <span class="label">Telegram</span></a>
-        </li>
+        </li><br>
         <p>
           - <a href="#pitchblack">Pitch black Theme</a><br/>
         </p>
@@ -30,8 +30,8 @@ tags: Gboards Themes Google Morethemes
 <li>Setting up the Rboard Theme Manager App</li>
 <li>After you done the setting up the app, download my packs (Colors_Dark,Colors_Light,Colored_Keys,<br>Style_Material,Swift_Material,Black_Themes,<br>Blue_Themes,Nord_Themes,Mix_Themes,Grey_Themes,<br>Material_Oceans_Themes,Material_Grey,<br>White_Themes,Black_Themes_V2,Snowy,Colorful,<br>Material_Oceans_Lively,Redesign,Etc..)</li>
 <li>Apply Themes</li>
-<li>Enjoy</li>
 <div id="pitchblack">
+<li>Enjoy</li>
 <h1>Latest Release:</h1>
     <div class="row 200%">
         <div class="6u 12u$(medium)">
