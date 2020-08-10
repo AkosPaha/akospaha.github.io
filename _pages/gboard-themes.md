@@ -19,9 +19,10 @@ tags: Gboards Themes Google Morethemes
             <span class="label">Telegram</span></a>
         </li><br>
         <p>
-          - <a href="#pitchblack">Pitch black Theme</a><br/>
+          - <a href="#pitchblack">Pitch Black Theme</a><br/>
+          - <a href="#darkgrey">Dark Grey Theme</a><br/>
         </p>
-<br><br>
+<br>
     </ul><h4> How to apply:</h4> 
 <li>Download the <a href="https://t.me/rkbdigboard/1018"> Rboard Themes Manager app</a></li>
 <li>Install the Rboard Theme Manager app apk</li> 
@@ -65,7 +66,9 @@ tags: Gboards Themes Google Morethemes
             </ul>
         </div>
     </div>
-<br><br> <h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	    
+<br><br> 
+<div id="darkgrey">
+<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	    
 <h1>Previous Release:</h1>
 </div>
     <div class="row 200%">
