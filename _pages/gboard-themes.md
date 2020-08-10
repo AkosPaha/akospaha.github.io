@@ -17,7 +17,9 @@ tags: Gboards Themes Google Morethemes
         <li>
             <a href="https://t.me/paha_akos_channel" class="icon alt fa fa-telegram-plane" target="_blank">
             <span class="label">Telegram</span></a>
-        </li><br>
+        </li>
+<br>
+<br>
         <p>
           - <a href="#pitchblack">Pitch Black Theme</a><br/>
           - <a href="#darkgrey">Dark Grey Theme</a><br/>
@@ -67,8 +69,8 @@ tags: Gboards Themes Google Morethemes
         </div>
     </div>
 <br><br> 
-<div id="darkgrey">
 <h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	    
+<div id="darkgrey">
 <h1>Previous Release:</h1>
 </div>
     <div class="row 200%">
