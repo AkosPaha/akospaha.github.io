@@ -18,6 +18,9 @@ tags: Gboards Themes Google Morethemes
             <a href="https://t.me/paha_akos_channel" class="icon alt fa fa-telegram-plane" target="_blank">
             <span class="label">Telegram</span></a>
         </li>
+        <p>
+          - <a href="#pitchblack">Pitch black Theme</a><br/>
+        </p>
 <br><br>
     </ul><h4> How to apply:</h4> 
 <li>Download the <a href="https://t.me/rkbdigboard/1018"> Rboard Themes Manager app</a></li>
@@ -28,6 +31,7 @@ tags: Gboards Themes Google Morethemes
 <li>After you done the setting up the app, download my packs (Colors_Dark,Colors_Light,Colored_Keys,<br>Style_Material,Swift_Material,Black_Themes,<br>Blue_Themes,Nord_Themes,Mix_Themes,Grey_Themes,<br>Material_Oceans_Themes,Material_Grey,<br>White_Themes,Black_Themes_V2,Snowy,Colorful,<br>Material_Oceans_Lively,Redesign,Etc..)</li>
 <li>Apply Themes</li>
 <li>Enjoy</li>
+<div id="pitchblack">
 <h1>Latest Release:</h1>
     <div class="row 200%">
         <div class="6u 12u$(medium)">
@@ -63,6 +67,7 @@ tags: Gboards Themes Google Morethemes
     </div>
 <br><br> <h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	    
 <h1>Previous Release:</h1>
+</div>
     <div class="row 200%">
         <div class="6u 12u$(medium)">
 	<img
