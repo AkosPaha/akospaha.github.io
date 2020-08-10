@@ -21,10 +21,10 @@ tags: Gboards Themes Google Morethemes
 <br>
 <br>
         <p>
-          - <a href="#pitchblack">Pitch Black Theme</a><br/>
-          - <a href="#darkgrey">Dark Grey Theme</a><br/>
+          • <a href="#pitchblack">Pitch Black Themes</a><br/>
+          • <a href="#darkgrey">Dark Grey Themes</a><br/>
+          • <a href="#dracula">Dracula Themes</a><br/>
         </p>
-<br>
     </ul><h4> How to apply:</h4> 
 <li>Download the <a href="https://t.me/rkbdigboard/1018"> Rboard Themes Manager app</a></li>
 <li>Install the Rboard Theme Manager app apk</li> 
@@ -33,8 +33,8 @@ tags: Gboards Themes Google Morethemes
 <li>Setting up the Rboard Theme Manager App</li>
 <li>After you done the setting up the app, download my packs (Colors_Dark,Colors_Light,Colored_Keys,<br>Style_Material,Swift_Material,Black_Themes,<br>Blue_Themes,Nord_Themes,Mix_Themes,Grey_Themes,<br>Material_Oceans_Themes,Material_Grey,<br>White_Themes,Black_Themes_V2,Snowy,Colorful,<br>Material_Oceans_Lively,Redesign,Etc..)</li>
 <li>Apply Themes</li>
-<div id="pitchblack">
 <li>Enjoy</li>
+<div id="pitchblack">
 <h1>Latest Release:</h1>
     <div class="row 200%">
         <div class="6u 12u$(medium)">
@@ -105,7 +105,9 @@ tags: Gboards Themes Google Morethemes
             </ul>
         </div>
     </div>
-<br><br> <h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	    
+<br><br>
+<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	    
+<div id="dracula">
 <h1>Previous Release:</h1>
     <div class="row 200%">
         <div class="6u 12u$(medium)">
