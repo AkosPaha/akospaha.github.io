@@ -37,7 +37,7 @@ I don't found gcam 7.4 which support it on Redmi 5 Plus (Vince)</li>
             <ul class="actions">
                 <li><a target="_blank" href="https://drive.google.com/drive/folders/12NNC3ybPyLBE75aE_U-LJsaaZu7Dexxg?usp=sharing" class="button special">Google Camera 7.4.104 V3</a></li>
                <br><br>
-               <li><a target="_blank" href="https://drive.google.com/drive/folders/1_hvO1fkD6-od3ec_v1UJYZJ0WYXJFyVB?usp=sharing" class="button special">Here my setting</a></li>
+               <li><a target="_blank" href="https://drive.google.com/drive/folders/1_hvO1fkD6-od3ec_v1UJYZJ0WYXJFyVB?usp=sharing" class="button special">SETTING FOR GCAM</a></li>
 <li>
 </li>
             </ul>
