@@ -14,7 +14,7 @@ nav-menu: true
                 </header>
                 <p>{{ site.about-text }}</p>
     {% endif %}
-    For any Questions, enquiries, Contact me via the form below or send me a direct email. you can also get in touch with me via telegram.<br/><br/>
+    For any Questions, enquiries, Contact me via the form below or send me a direct email. you can also get in touch with me via telegram then start your message, "Hi, I found you through your site..."<br/><br/>
       <form action="https://formspree.io/{{ site.email }}" method="POST">
         <div class="field half first">
           <label for="name">Name</label>
