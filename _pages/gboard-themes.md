@@ -49,7 +49,6 @@ tags: Gboards Themes Google Morethemes
       <li>20 different Themes</li>
       <li>Black background themes</li>
       <li>Gray color hex </li> 
-      <li>Gray color hex </li>
       <li>Desaturated Color</li><br>
 <h2>How to apply:</h2>
 <li>Download from Github</li>
