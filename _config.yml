@@ -1,6 +1,6 @@
 # site settings
 title: Akos Paha
-email: contact@akospaha.tk
+email: paha.akos@gmail.com
 description: Custom Roms, Custom Kernels Tester, Gboard Themes Maker and hobby photographer
 landing-title: Hello, My Name is Akos Paha
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -36,7 +36,7 @@ xda_url: https://forum.xda-developers.com/member.php?s=ce4ded8b84429ed989b6a7bdb
 skills:
   Designing: "50"
   HTML: "80"
-  C#: "20"
+  C#: "25"
   C++: "15"
   Office: "95"
   Testing: "100"
