@@ -21,9 +21,10 @@ tags: Gboards Themes Google Morethemes
 <br>
 <br>
         <p>
-	  • <a href="#exclusive">Exclusive Themes</a><br/>
+	      • <a href="#exclusive">Exclusive Themes</a><br/>
+	      • <a href="#borderless">Borderless Material Themes</a><br/>
           • <a href="#pitchblack">Pitch Black Themes</a><br/>
-          • <a href="#darkgrey">Dark Grey Themes</a><br/>
+          • <a href="#feather">Feather Themes</a><br/>
           • <a href="#dracula">Dracula Themes</a><br/>
           • <a href="#desaturated">Desaturated Pack Themes</a><br/>
         </p>
@@ -46,9 +47,11 @@ tags: Gboards Themes Google Morethemes
           data-position="center center"
         />
     <h2>Exclusive Pack:</h2>
-      <li>20 different Themes</li>
+      <li>28 different Themes</li>
       <li>Black background themes</li>
+      <li>Yandex Themes</li>
       <li>Gray color hex </li> 
+      <li>Facebook and Youtube Themes</li>
       <li>Desaturated Color</li><br>
 <h2>How to apply:</h2>
 <li>Download from Github</li>
@@ -61,11 +64,47 @@ tags: Gboards Themes Google Morethemes
         <div class="6u$ 12u$(medium)">
             <br><br><br>
             <p><strong>File Name:</strong> Exclusive.zip<br>
-            <strong>File Size:</strong>  2.68 MB <br></p>
+            <strong>File Size:</strong>  3.97 MB <br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
                 <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Exclusive.zip" class="button special">Github</a></li>
-                <li><a target="_blank" href="https://t.me/paha_akos_channel" class="button special">Telegram</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel/652" class="button special">Telegram</a></li>
+<li>
+</li>
+            </ul>
+        </div>
+    </div>
+<br><br> 
+<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	    
+<div id="borderless">
+<h1>Previous Release:</h1>
+    <div class="row 200%">
+        <div class="6u 12u$(medium)">
+	<img
+          src="assets/images/borderless.jpg"
+          alt=""
+          data-position="center center"
+        />
+    <h2>Borderless Material Pack:</h2>
+      <li>10 different Themes</li>
+      <li>5 white background themes</li>
+      <li>5 black background themes</li>
+<h2>How to apply:</h2>
+<li>Download from Github</li>
+<li>Extract the zip</li>
+<li>After you can see others zip and file</li>
+<li>Select and paste to /system/etc/gboard_themes</li>
+<li>Open Rboard Manager App and apply the theme</li>
+<li>Or just download from the Rboard Manager app if you use this app</li><br>
+        </div>
+        <div class="6u$ 12u$(medium)">
+            <br><br><br>
+            <p><strong>File Name:</strong> Borderless_Material.zip<br>
+            <strong>File Size:</strong>   663 KB <br></p>
+            <h3>Downloads:</h3>
+            <ul class="actions">
+                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Borderless_Material.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel/646" class="button special">Telegram</a></li>
 <li>
 </li>
             </ul>
@@ -101,14 +140,51 @@ tags: Gboards Themes Google Morethemes
             <h3>Downloads:</h3>
             <ul class="actions">
                 <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/PitchBlack.zip" class="button special">Github</a></li>
-                <li><a target="_blank" href="https://t.me/paha_akos_channel" class="button special">Telegram</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel/630" class="button special">Telegram</a></li>
 <li>
 </li>
             </ul>
         </div>
     </div>
 <br><br> 
-<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	    
+<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	  
+<div id="feather">
+<h1>Previous Release:</h1>
+    <div class="row 200%">
+        <div class="6u 12u$(medium)">
+	<img
+          src="assets/images/feather.jpg"
+          alt=""
+          data-position="center center"
+        />
+    <h2>Feather Pack:</h2>
+      <li>10 different Themes</li>
+      <li>- Light</li>
+      <li>- Dark</li>
+      <li>Remade Feather SwiftKey Theme for Gboard </li><br>
+<h2>How to apply:</h2>
+<li>Download from Github</li>
+<li>Extract the zip</li>
+<li>After you can see others zip and file</li>
+<li>Select and paste to /system/etc/gboard_themes</li>
+<li>Open Rboard Manager App and apply the theme</li>
+<li>Or just download from the Rboard Manager app if you use this app</li><br>
+        </div>
+        <div class="6u$ 12u$(medium)">
+            <br><br><br>
+            <p><strong>File Name:</strong> Feather_Pack.zip<br>
+            <strong>File Size:</strong>  397 KB<br></p>
+            <h3>Downloads:</h3>
+            <ul class="actions">
+                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Feather_Pack.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel/615?single" class="button special">Telegram</a></li>
+<li>
+</li>
+            </ul>
+        </div>
+    </div>
+<br><br> 
+<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	      
 <div id="darkgrey">
 <h1>Previous Release:</h1>
 </div>
@@ -138,7 +214,7 @@ tags: Gboards Themes Google Morethemes
             <h3>Downloads:</h3>
             <ul class="actions">
                 <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/DarkGrey.zip" class="button special">Github</a></li>
-                <li><a target="_blank" href="https://t.me/paha_akos_channel" class="button special">Telegram</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel/581" class="button special">Telegram</a></li>
 <li>
 </li>
             </ul>
@@ -182,7 +258,7 @@ tags: Gboards Themes Google Morethemes
             <h3>Downloads:</h3>
             <ul class="actions">
                 <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Dracula_Theme_Pack.zip" class="button special">Github</a></li>
-                <li><a target="_blank" href="https://t.me/paha_akos_channel" class="button special">Telegram</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel/543" class="button special">Telegram</a></li>
 <li>
 </li>
             </ul>
@@ -219,7 +295,7 @@ tags: Gboards Themes Google Morethemes
             <h3>Downloads:</h3>
             <ul class="actions">
                 <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Desaturated_pack.zip" class="button special">Github</a></li>
-                <li><a target="_blank" href="https://t.me/paha_akos_channel" class="button special">Telegram</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel/507" class="button special">Telegram</a></li>
 <li>
 </li>
             </ul>
