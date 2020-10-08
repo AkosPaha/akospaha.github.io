@@ -26,7 +26,6 @@ nav-menu: true
           - <a target="_blank" href="https://t.me/xtended_vince">MSM X Vince Group</a><br />
           - <a target="_blank" href="https://t.me/stormbreaker_vince">Stormbreaker Kernel Vince Channel & Group</a><br />
           - <a target="_blank" href="https://t.me/paha_akos_channel">Channel of AkosPaha</a><br />
-          - Volta(website)<br/>
         </p>
       </div>
         <div class="6u$ 12u$(medium)">
