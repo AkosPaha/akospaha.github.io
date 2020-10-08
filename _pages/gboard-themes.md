@@ -64,7 +64,7 @@ tags: Gboards Themes Google Morethemes
         <div class="6u$ 12u$(medium)">
             <br><br><br>
             <p><strong>File Name:</strong> Exclusive.zip<br>
-            <strong>File Size:</strong>  3.97 MB <br></p>
+            <strong>File Size:</strong>  3.98 MB <br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
                 <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Exclusive.zip" class="button special">Github</a></li>
