@@ -18,18 +18,20 @@ tags: Gboards Themes Google Morethemes
             <a href="https://t.me/paha_akos_channel" class="icon alt fa fa-telegram-plane" target="_blank">
             <span class="label">Telegram</span></a>
         </li>
-<br>
-<br>
+        <br>
+        <br>
         <p>
 	      • <a href="#exclusive">Exclusive Themes</a><br/>
 	      • <a href="#borderless">Borderless Material Themes</a><br/>
           • <a href="#pitchblack">Pitch Black Themes</a><br/>
           • <a href="#feather">Feather Themes</a><br/>
           • <a href="#dracula">Dracula Themes</a><br/>
-          • <a href="#desaturated">Desaturated Pack Themes</a><br/>
+          • <a href="#desaturated">Desaturated Pack Themes</a>
         </p>
-    </ul><h4> How to apply:</h4> 
-<li>Download the <a href="https://t.me/rkbdigboard/1018"> Rboard Themes Manager app</a></li>
+        <li class="icon alt far fa-chart-bar"></li><li>Current Theme numbers: 281</li>
+        <br>
+    </ul><h4>How to apply:</h4> 
+<li>Download the <a href="https://t.me/rkbdigboard/1018">Rboard Themes Manager app</a></li>
 <li>Install the Rboard Theme Manager app apk</li> 
 <li>Open the Rboard Theme Manager (Grant Root and allow storage permission)</li>
 <li>Reboot</li>
