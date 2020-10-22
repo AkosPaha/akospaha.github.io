@@ -21,6 +21,7 @@ tags: Gboards Themes Google Morethemes
         <br>
         <br>
         <p>
+          • <a href="#nightlight">NightLight Themes</a><br/>
 	      • <a href="#exclusive">Exclusive Themes</a><br/>
 	      • <a href="#borderless">Borderless Material Themes</a><br/>
           • <a href="#pitchblack">Pitch Black Themes</a><br/>
@@ -28,7 +29,7 @@ tags: Gboards Themes Google Morethemes
           • <a href="#dracula">Dracula Themes</a><br/>
           • <a href="#desaturated">Desaturated Pack Themes</a>
         </p>
-        <li class="icon alt far fa-chart-bar"></li><li>Current Theme numbers: 281</li>
+        <li class="icon alt far fa-chart-bar"></li><li>Current Theme numbers: 302</li>
         <br>
     </ul><h4>How to apply:</h4> 
 <li>Download the <a href="https://t.me/rkbdigboard/1018">Rboard Themes Manager app</a></li>
@@ -39,8 +40,45 @@ tags: Gboards Themes Google Morethemes
 <li>After you done the setting up the app, download my packs (Colors_Dark,Colors_Light,Colored_Keys,<br>Style_Material,Swift_Material,Black_Themes,<br>Blue_Themes,Nord_Themes,Mix_Themes,Grey_Themes,<br>Material_Oceans_Themes,Material_Grey,<br>White_Themes,Black_Themes_V2,Snowy,Colorful,<br>Material_Oceans_Lively,Redesign,Etc..)</li>
 <li>Apply Themes</li>
 <li>Enjoy</li>
-<div id="exclusive">
+<div id="nightlight">
 <h1>Latest Release:</h1>
+    <div class="row 200%">
+        <div class="6u 12u$(medium)">
+	<img
+          src="assets/images/nightlight.jpg"
+          alt=""
+          data-position="center center"
+        />
+    <h2>NightLight Themes</h2>
+      <li>Included 12 Themes</li>
+      <li>Using Night colours with different accents</li>
+      <li>Accents colors used:<br>
+      Cyan,Green,Red,Blue,Yellow,etc...</li>
+<h2>How to apply:</h2>
+<li>Download from Github</li>
+<li>Extract the zip</li>
+<li>After you can see others zip and file</li>
+<li>Select and paste to /system/etc/gboard_themes</li>
+<li>Open Rboard Manager App and apply the theme</li>
+<li>Or just download from the Rboard Manager app if you use this app</li><br>
+        </div>
+        <div class="6u$ 12u$(medium)">
+            <br><br><br>
+            <p><strong>File Name:</strong> NightLight_Themes.zip<br>
+            <strong>File Size:</strong>  627 KB <br></p>
+            <h3>Downloads:</h3>
+            <ul class="actions">
+                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/NightLight_Themes.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel/652" class="button special">Telegram</a></li>
+<li>
+</li>
+            </ul>
+        </div>
+    </div>
+<br><br> 
+<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	    
+<div id="exclusive">
+<h1>Previous Release:</h1>
     <div class="row 200%">
         <div class="6u 12u$(medium)">
 	<img
