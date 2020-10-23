@@ -29,7 +29,7 @@ tags: Gboards Themes Google Morethemes
           • <a href="#dracula">Dracula Themes</a><br/>
           • <a href="#desaturated">Desaturated Pack Themes</a>
         </p>
-        <li class="icon alt far fa-chart-bar"></li><li>Current Theme numbers: 302</li>
+        <li class="icon alt far fa-chart-bar"></li><li>Current Theme numbers: 305</li>
         <br>
     </ul><h4>How to apply:</h4> 
 <li>Download the <a href="https://t.me/rkbdigboard/1018">Rboard Themes Manager app</a></li>
@@ -50,7 +50,7 @@ tags: Gboards Themes Google Morethemes
           data-position="center center"
         />
     <h2>NightLight Themes</h2>
-      <li>Included 12 Themes</li>
+      <li>Included 15 Themes</li>
       <li>Using Night colours with different accents</li>
       <li>Accents colors used:<br>
       Cyan,Green,Red,Blue,Yellow,etc...</li>
