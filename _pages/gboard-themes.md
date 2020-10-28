@@ -29,7 +29,7 @@ tags: Gboards Themes Google Morethemes
           • <a href="#dracula">Dracula Themes</a><br/>
           • <a href="#desaturated">Desaturated Pack Themes</a>
         </p>
-        <li class="icon alt far fa-chart-bar"></li><li>Current Theme numbers: 324</li>
+        <li class="icon alt far fa-chart-bar"></li><li>Current Theme numbers: 336</li>
         <br>
     </ul><h4>How to apply:</h4> 
 <li>Download the <a href="https://t.me/rkbdigboard/1018">Rboard Themes Manager app</a></li>
