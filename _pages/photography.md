@@ -8,7 +8,7 @@ nav-menu: true
    <h4><a href="" target="_blank"> What do I use for photography:</a></h4>
    <li>Mobile: Xiaomi Redmi 5 Plus (Vince), 12MP F2.2 OV12A10 </li>
    <li>Android OS: Android 11 Fluid 1.0 R Official</li>
-   <li>Camera app: Google Camera 7.6.008 V6 (Need Android 10 or newer)</li>
+   <li>Camera app: Google Camera 7.6.008 V7 (Need Android 10 or newer)</li>
    <li>Edit app: Lightroom CC Mobile Premium 5.4.1</li>
 <br><br>
 <h2>Parrot Google Camera 7.6.008:(Newest)</h2>
@@ -22,12 +22,11 @@ nav-menu: true
         />      
     <br><br>
     <h2>How to:</h2>
-    <li>Download the Google Camera (Latest 7.6.008 V6 Stable <br> (Working on all device I guess)</li>
+    <li>Download the Google Camera (Latest 7.6.008 V6 Stable) <br> (Working on all device I guess)</li>
 <li>Install Google Camera (Only for Android 10+)</li>
 <li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwic1vu_lcbmAhWM6qQKHeIjDSgQFjAAegQIBhAB&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.airbeat.device.inspector%26hl%3Dhu&usg=AOvVaw3gEAe5p4qHtFogeASeA2-B">Check Camera2api "Level 3")</a></li> 
 <li>Setting up the App</li>
-<li>When you use the front camera on Redmi 5 Plus (Vince) then default disabled Front Camera HDR+...<br>
-I don't found gcam 7.6 which support it on Redmi 5 Plus (Vince) so its default disbale, on rear camera enabled and wroks fine.</li>
+<li>When you use the front camera on Redmi 5 Plus (Vince) then default disabled Front Camera HDR+...</li>
 <li>Enjoy</li>
 <li>Creating lots of good picture :)</li>
         </div>
@@ -54,7 +53,7 @@ I don't found gcam 7.6 which support it on Redmi 5 Plus (Vince) so its default d
         />      
     <br><br>
     <h2>How to:</h2>
-    <li>Download the Google Camera (Latest 7.4.104 V5 Stable <br> (Working on all device I guess)</li>
+    <li>Download the Google Camera (Latest 7.4.104 V5 Stable) <br> (Working on all device I guess)</li>
 <li>Install Google Camera (Only for Android 10+)</li>
 <li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwic1vu_lcbmAhWM6qQKHeIjDSgQFjAAegQIBhAB&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.airbeat.device.inspector%26hl%3Dhu&usg=AOvVaw3gEAe5p4qHtFogeASeA2-B">Check Camera2api "Level 3")</a></li> 
 <li>Setting up the App</li>
@@ -86,7 +85,7 @@ I don't found gcam 7.4 which support it on Redmi 5 Plus (Vince)</li>
         />      
     <br><br>
     <h2>How to:</h2>
-    <li>Download the Google Camera (Latest 7.3.020 V8 Stable <br> (Working on all device I guess)</li>
+    <li>Download the Google Camera (Latest 7.3.020 V8 Stable) <br> (Working on all device I guess)</li>
 <li>Install Google Camera (Need Android 9 or Android 10+)</li>
 <li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwic1vu_lcbmAhWM6qQKHeIjDSgQFjAAegQIBhAB&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.airbeat.device.inspector%26hl%3Dhu&usg=AOvVaw3gEAe5p4qHtFogeASeA2-B">Check Camera2api "Level 3")</a></li> 
 <li>Setting up the App</li>
