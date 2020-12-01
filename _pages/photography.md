@@ -8,8 +8,8 @@ nav-menu: true
    <h4><a href="" target="_blank"> What do I use for photography:</a></h4>
    <li>Mobile: Xiaomi Redmi 5 Plus (Vince), 12MP F2.2 OV12A10 </li>
    <li>Android OS: Android 11 Fluid 1.0 R Official</li>
-   <li>Camera app: Google Camera 7.6.008 V7 (Need Android 10 or newer)</li>
-   <li>Edit app: Lightroom CC Mobile Premium 5.4.1</li>
+   <li>Camera app: Google Camera 7.6.008 V9 (Need Android 10 or newer)</li>
+   <li>Edit app: Lightroom CC Mobile Premium 5.6.0</li>
 <br><br>
 <h2>Parrot Google Camera 7.6.008:(Newest)</h2>
     <div class="row 200%">
@@ -22,7 +22,7 @@ nav-menu: true
         />      
     <br><br>
     <h2>How to:</h2>
-    <li>Download the Google Camera (Latest 7.6.008 V6 Stable) <br> (Working on all device I guess)</li>
+    <li>Download the Google Camera (Latest 7.6.008 V9 Stable) <br> (Working on all device I guess)</li>
 <li>Install Google Camera (Only for Android 10+)</li>
 <li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwic1vu_lcbmAhWM6qQKHeIjDSgQFjAAegQIBhAB&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.airbeat.device.inspector%26hl%3Dhu&usg=AOvVaw3gEAe5p4qHtFogeASeA2-B">Check Camera2api "Level 3")</a></li> 
 <li>Setting up the App</li>
@@ -34,7 +34,7 @@ nav-menu: true
             <br><br><br>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://drive.google.com/drive/folders/1943PHjcZKoPN7lk4kIZdGQAI8PrIWf7o?usp=sharing" class="button special">GCamera 7.6.008 V6 APK Download</a></li>
+                <li><a target="_blank" href="https://drive.google.com/drive/folders/1943PHjcZKoPN7lk4kIZdGQAI8PrIWf7o?usp=sharing" class="button special">GCamera 7.6.008 V9 APK Download</a></li>
                <br><br>
                <li><a target="_blank" href="https://drive.google.com/drive/folders/1P9CQ2h52OMnYHFZf0yrZwOj8x65O0mGx?usp=sharing" class="button special">SETTING FOR GCAM</a></li>
 <li>
