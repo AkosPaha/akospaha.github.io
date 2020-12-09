@@ -34,7 +34,7 @@ nav-menu: true
             <br><br><br>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://drive.google.com/drive/folders/1943PHjcZKoPN7lk4kIZdGQAI8PrIWf7o?usp=sharing" class="button special">GCamera 7.6.008 V9 APK Download</a></li>
+                <li><a target="_blank" href="https://drive.google.com/drive/folders/1943PHjcZKoPN7lk4kIZdGQAI8PrIWf7o?usp=sharing" class="button special">GCam 7.6.008 V9 Download + Clone Ver.</a></li>
                <br><br>
                <li><a target="_blank" href="https://drive.google.com/drive/folders/1P9CQ2h52OMnYHFZf0yrZwOj8x65O0mGx?usp=sharing" class="button special">SETTING FOR GCAM</a></li>
 <li>
@@ -66,7 +66,7 @@ I don't found gcam 7.4 which support it on Redmi 5 Plus (Vince)</li>
             <br><br><br>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://drive.google.com/drive/folders/12NNC3ybPyLBE75aE_U-LJsaaZu7Dexxg?usp=sharing" class="button special">GCamera 7.4.104 V5 APK Download</a></li>
+                <li><a target="_blank" href="https://drive.google.com/drive/folders/12NNC3ybPyLBE75aE_U-LJsaaZu7Dexxg?usp=sharing" class="button special">GCam 7.4.104 V5 Download + Clone Ver.</a></li>
                <br><br>
                <li><a target="_blank" href="https://drive.google.com/drive/folders/1_hvO1fkD6-od3ec_v1UJYZJ0WYXJFyVB?usp=sharing" class="button special">SETTING FOR GCAM</a></li>
 <li>
@@ -98,7 +98,7 @@ I don't found gcam 7.3 which support it on Redmi 5 Plus (Vince)</li>
             <br><br><br>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://drive.google.com/folderview?id=1-CPTnK7nDoIR5PZp8ThAXvHIc_lAwosR" class="button special">GCamera 7.3.020 V8 APK Download</a></li>
+                <li><a target="_blank" href="https://drive.google.com/folderview?id=1-CPTnK7nDoIR5PZp8ThAXvHIc_lAwosR" class="button special">GCam 7.3.020 V8 Download + Clone Ver.</a></li>
                <br><br>
                <li><a target="_blank" href="https://drive.google.com/folderview?id=14QSMn1IOrKH2QGzZFxyYFG8I3b41NDtW" class="button special">SETTING FOR GCAM</a></li>
 <li>
@@ -106,4 +106,4 @@ I don't found gcam 7.3 which support it on Redmi 5 Plus (Vince)</li>
             </ul>
         </div>
     </div>
-<br><h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	    
+<br><h4>Credit:</h4> Parrot043 <a target="_blank" href="https://t.me/parrot043_googleCamera">Group</a>	    
