@@ -22,7 +22,7 @@ nav-menu: true
         />      
     <br><br>
     <h2>How to:</h2>
-    <li>Download the Google Camera (Latest 7.6.008 V9 Stable) <br> (Working on all device I guess)</li>
+    <li>Download the Google Camera (Latest 7.6.008 V9 Stable + Clone Version) <br> (Working on all device I guess)</li>
 <li>Install Google Camera (Only for Android 10+)</li>
 <li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwic1vu_lcbmAhWM6qQKHeIjDSgQFjAAegQIBhAB&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.airbeat.device.inspector%26hl%3Dhu&usg=AOvVaw3gEAe5p4qHtFogeASeA2-B">Check Camera2api "Level 3")</a></li> 
 <li>Setting up the App</li>
@@ -34,7 +34,7 @@ nav-menu: true
             <br><br><br>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://drive.google.com/drive/folders/1943PHjcZKoPN7lk4kIZdGQAI8PrIWf7o?usp=sharing" class="button special">GCam 7.6.008 V9 Download + Clone Ver.</a></li>
+                <li><a target="_blank" href="https://drive.google.com/drive/folders/1943PHjcZKoPN7lk4kIZdGQAI8PrIWf7o?usp=sharing" class="button special">GCam 7.6.008 V9 Download + Clone</a></li>
                <br><br>
                <li><a target="_blank" href="https://drive.google.com/drive/folders/1P9CQ2h52OMnYHFZf0yrZwOj8x65O0mGx?usp=sharing" class="button special">SETTING FOR GCAM</a></li>
 <li>
@@ -53,7 +53,7 @@ nav-menu: true
         />      
     <br><br>
     <h2>How to:</h2>
-    <li>Download the Google Camera (Latest 7.4.104 V5 Stable) <br> (Working on all device I guess)</li>
+    <li>Download the Google Camera (Latest 7.4.104 V5 Stable + Clone Version) <br> (Working on all device I guess)</li>
 <li>Install Google Camera (Only for Android 10+)</li>
 <li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwic1vu_lcbmAhWM6qQKHeIjDSgQFjAAegQIBhAB&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.airbeat.device.inspector%26hl%3Dhu&usg=AOvVaw3gEAe5p4qHtFogeASeA2-B">Check Camera2api "Level 3")</a></li> 
 <li>Setting up the App</li>
@@ -66,7 +66,7 @@ I don't found gcam 7.4 which support it on Redmi 5 Plus (Vince)</li>
             <br><br><br>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://drive.google.com/drive/folders/12NNC3ybPyLBE75aE_U-LJsaaZu7Dexxg?usp=sharing" class="button special">GCam 7.4.104 V5 Download + Clone Ver.</a></li>
+                <li><a target="_blank" href="https://drive.google.com/drive/folders/12NNC3ybPyLBE75aE_U-LJsaaZu7Dexxg?usp=sharing" class="button special">GCam 7.4.104 V5 Download + Clone</a></li>
                <br><br>
                <li><a target="_blank" href="https://drive.google.com/drive/folders/1_hvO1fkD6-od3ec_v1UJYZJ0WYXJFyVB?usp=sharing" class="button special">SETTING FOR GCAM</a></li>
 <li>
@@ -85,7 +85,7 @@ I don't found gcam 7.4 which support it on Redmi 5 Plus (Vince)</li>
         />      
     <br><br>
     <h2>How to:</h2>
-    <li>Download the Google Camera (Latest 7.3.020 V8 Stable) <br> (Working on all device I guess)</li>
+    <li>Download the Google Camera (Latest 7.3.020 V8 Stable + Clone Version) <br> (Working on all device I guess)</li>
 <li>Install Google Camera (Need Android 9 or Android 10+)</li>
 <li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwic1vu_lcbmAhWM6qQKHeIjDSgQFjAAegQIBhAB&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.airbeat.device.inspector%26hl%3Dhu&usg=AOvVaw3gEAe5p4qHtFogeASeA2-B">Check Camera2api "Level 3")</a></li> 
 <li>Setting up the App</li>
@@ -98,7 +98,7 @@ I don't found gcam 7.3 which support it on Redmi 5 Plus (Vince)</li>
             <br><br><br>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://drive.google.com/folderview?id=1-CPTnK7nDoIR5PZp8ThAXvHIc_lAwosR" class="button special">GCam 7.3.020 V8 Download + Clone Ver.</a></li>
+                <li><a target="_blank" href="https://drive.google.com/folderview?id=1-CPTnK7nDoIR5PZp8ThAXvHIc_lAwosR" class="button special">GCam 7.3.020 V8 Download + Clone</a></li>
                <br><br>
                <li><a target="_blank" href="https://drive.google.com/folderview?id=14QSMn1IOrKH2QGzZFxyYFG8I3b41NDtW" class="button special">SETTING FOR GCAM</a></li>
 <li>
