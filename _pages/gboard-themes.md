@@ -25,7 +25,6 @@ tags: Gboards Themes Google Morethemes
           • <a href="#minecraft">Minecraft Themes</a><br/>
           • <a href="#exclusive3">Exclusive 3 Themes</a><br/>
           • <a href="#exclusive2">Exclusive 2 Themes</a><br/>
-          • <a href="#nero">Nero Themes</a><br/>
           • <a href="#arctic">Arctic Themes</a><br/>
           • <a href="#bluish">Bluish Themes</a><br/>
           • <a href="#nightlight">NightLight Themes</a><br/>
@@ -186,44 +185,7 @@ tags: Gboards Themes Google Morethemes
         </div>
     </div>
 <br><br> 
-<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	       
-<div id="nero">
-<h1>Previous Release:</h1>
-    <div class="row 200%">
-        <div class="6u 12u$(medium)">
-	<img
-          src="assets/images/nero.jpg"
-          alt=""
-          data-position="center center"
-        />
-    <h2>Nero Themes</h2>
-      <li>Included 14 Themes</li>
-      <li>UsingGood dark grey colours with different desaturated accents</li>
-      <li>Accents colors used:<br>
-      Cyan,Green,Red,Blue,Yellow,etc...</li>
-<h2>How to apply:</h2>
-<li>Download from Github</li>
-<li>Extract the zip</li>
-<li>After you can see others zip and file</li>
-<li>Select and paste to /system/etc/gboard_themes</li>
-<li>Open Rboard Manager App and apply the theme</li>
-<li>Or just download from the Rboard Manager app if you use this app</li><br>
-        </div>
-        <div class="6u$ 12u$(medium)">
-            <br><br><br>
-            <p><strong>File Name:</strong> Nero_Themes.zip<br>
-            <strong>File Size:</strong>  838 KB <br></p>
-            <h3>Downloads:</h3>
-            <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Nero_Themes.zip" class="button special">Github</a></li>
-                <li><a target="_blank" href="https://t.me/paha_akos_channel/673" class="button special">Telegram</a></li>
-<li>
-</li>
-            </ul>
-        </div>
-    </div>
-<br><br> 
-<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	    
+<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>
 <div id="arctic">
 <h1>Older Release:</h1>
     <div class="row 200%">
