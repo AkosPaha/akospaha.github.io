@@ -12,7 +12,7 @@ state: Municipality of Budapest
 zip_code: 1123
 country: Hungary
 logo: 'assets/images/logo.jpg' # has to be a jpg image
-about-text: 18 years old custom roms, custom kernels tester and Google Keyboard theme creator. I'm a 12th grade high school student. This school year I graduate. I take pictures of my spare time, translate apps and make keyboard themes.
+about-text: 19 years old custom roms, custom kernels tester and Google Keyboard theme creator. I'm a 13th grade high school student. Previous school year I graduated. I take pictures of my spare time, translate apps and make keyboard themes.
 
 # homepage config
 tiles-count: 4
@@ -35,7 +35,7 @@ xda_url: https://forum.xda-developers.com/member.php?s=ce4ded8b84429ed989b6a7bdb
 skills:
   Designing: "50"
   HTML: "80"
-  C#: "25"
+  C#: "35"
   C++: "15"
   Office: "95"
   Testing: "100"

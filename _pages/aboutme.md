@@ -13,7 +13,7 @@ nav-menu: true
         <h2>Akos Paha</h2>
       </header>
       <p>
-        18 years old custom roms, custom kernels tester and Google Keyboard themes maker.I finished 12th grade in high school. I graduated this year. I take pictures of my spare time, translate apps and stuff.
+        19 years old custom roms, custom kernels tester and Google Keyboard theme creator. I'm a 13th grade high school student. Previous school year I graduated. I take pictures of my spare time, translate apps and make keyboard themes.
       </p>
     </div>
   </section>

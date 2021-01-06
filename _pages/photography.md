@@ -7,9 +7,9 @@ nav-menu: true
     <div class="inner">
    <h4><a href="" target="_blank"> What do I use for photography:</a></h4>
    <li>Mobile: Xiaomi Redmi 5 Plus (Vince), 12MP F2.2 OV12A10 </li>
-   <li>Android OS: Android 11 Fluid 1.0 R Official</li>
+   <li>Android OS: Android 11 Fluid 1.1 R Official</li>
    <li>Camera app: Google Camera 7.6.008 V9 (Need Android 10 or newer)</li>
-   <li>Edit app: Lightroom CC Mobile Premium 5.6.0</li>
+   <li>Edit app: Lightroom CC Mobile Premium 6.1.0</li>
 <br><br>
 <h2>Parrot Google Camera 7.6.008:(Newest)</h2>
     <div class="row 200%">

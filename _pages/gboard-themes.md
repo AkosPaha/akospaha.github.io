@@ -21,15 +21,16 @@ tags: Gboards Themes Google Morethemes
         <br>
         <br>
         <p>
+          • <a href="#exclusive4">Exclusive 4 Themes</a><br/>
+          • <a href="#minecraft">Minecraft Themes</a><br/>
+          • <a href="#exclusive3">Exclusive 3 Themes</a><br/>
+          • <a href="#exclusive2">Exclusive 2 Themes</a><br/>
+          • <a href="#nero">Nero Themes</a><br/>
+          • <a href="#arctic">Arctic Themes</a><br/>
+          • <a href="#bluish">Bluish Themes</a><br/>
           • <a href="#nightlight">NightLight Themes</a><br/>
-	      • <a href="#exclusive">Exclusive Themes</a><br/>
-	      • <a href="#borderless">Borderless Material Themes</a><br/>
-          • <a href="#pitchblack">Pitch Black Themes</a><br/>
-          • <a href="#feather">Feather Themes</a><br/>
-          • <a href="#dracula">Dracula Themes</a><br/>
-          • <a href="#desaturated">Desaturated Pack Themes</a>
         </p>
-        <li class="icon alt far fa-chart-bar"></li><li>Current Theme numbers: 365</li>
+        <li class="icon alt far fa-chart-bar"></li><li>Current Theme numbers: 415</li>
         <br>
     </ul><h4>How to apply:</h4> 
 <li>Download the <a href="https://t.me/rkbdigboard/1018">Rboard Themes Manager app</a></li>
@@ -39,9 +40,266 @@ tags: Gboards Themes Google Morethemes
 <li>Setting up the Rboard Theme Manager App</li>
 <li>After you done the setting up the app, download my packs (Colors_Dark,Colors_Light,Colored_Keys,<br>Style_Material,Swift_Material,Black_Themes,<br>Blue_Themes,Nord_Themes,Mix_Themes,Grey_Themes,<br>Material_Oceans_Themes,Material_Grey,<br>White_Themes,Black_Themes_V2,Snowy,Colorful,<br>Material_Oceans_Lively,Redesign,Etc..)</li>
 <li>Apply Themes</li>
-<li>Enjoy</li>
-<div id="nightlight">
+<li>Enjoy</li><div id="exclusive4">
 <h1>Latest Release:</h1>
+    <div class="row 200%">
+        <div class="6u 12u$(medium)">
+	<img
+          src="assets/images/exclusive4.jpg"
+          alt=""
+          data-position="center center"
+        />
+    <h2>Exclusive 4 Themes</h2>
+      <li>Included 9 Themes</li>
+      <li>Using Cyberpunk backgrounds and accents colors</li>
+      <li>White with new accent colors</li>
+      <li>Accents colors used:<br>
+      Purple,Pink,Blue,Yellow,etc...</li>
+<h2>How to apply:</h2>
+<li>Download from Github</li>
+<li>Extract the zip</li>
+<li>After you can see others zip and file</li>
+<li>Select and paste to /system/etc/gboard_themes</li>
+<li>Open Rboard Manager App and apply the theme</li>
+<li>Or just download from the Rboard Manager app if you use this app</li><br>
+        </div>
+        <div class="6u$ 12u$(medium)">
+            <br><br><br>
+            <p><strong>File Name:</strong> Exclusive_4.zip<br>
+            <strong>File Size:</strong>  506 KB <br></p>
+            <h3>Downloads:</h3>
+            <ul class="actions">
+                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Exclusive_4.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel/703" class="button special">Telegram</a></li>
+<li>
+</li>
+            </ul>
+        </div>
+    </div>
+<br><br> 
+<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	 
+<div id="minecraft">
+<h1>Previous Release:</h1>
+    <div class="row 200%">
+        <div class="6u 12u$(medium)">
+	<img
+          src="assets/images/Minecraft.jpg"
+          alt=""
+          data-position="center center"
+        />
+    <h2>Minecraft Themes</h2>
+      <li>Included 7 Themes</li>
+      <li>Using mobs color as base</li>
+<h2>How to apply:</h2>
+<li>Download from Github</li>
+<li>Extract the zip</li>
+<li>After you can see others zip and file</li>
+<li>Select and paste to /system/etc/gboard_themes</li>
+<li>Open Rboard Manager App and apply the theme</li>
+<li>Or just download from the Rboard Manager app if you use this app</li><br>
+        </div>
+        <div class="6u$ 12u$(medium)">
+            <br><br><br>
+            <p><strong>File Name:</strong> Minecraft_Pack.zip<br>
+            <strong>File Size:</strong>  878 KB <br></p>
+            <h3>Downloads:</h3>
+            <ul class="actions">
+                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Minecraft_Pack.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel/700" class="button special">Telegram</a></li>
+<li>
+</li>
+            </ul>
+        </div>
+    </div>
+<br><br> 
+<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>
+<div id="exclusive3">
+<h1>Previous Release:</h1>
+    <div class="row 200%">
+        <div class="6u 12u$(medium)">
+	<img
+          src="assets/images/exclusive3.jpg"
+          alt=""
+          data-position="center center"
+        />
+    <h2>Exclusive 3 Themes</h2>
+      <li>Included 21 Themes</li>
+      <li>Using dark and light background as based with different accents</li>
+      <li>Accents colors used:<br>
+      Cyan,Green,Red,Blue,Yellow,etc...</li>
+<h2>How to apply:</h2>
+<li>Download from Github</li>
+<li>Extract the zip</li>
+<li>After you can see others zip and file</li>
+<li>Select and paste to /system/etc/gboard_themes</li>
+<li>Open Rboard Manager App and apply the theme</li>
+<li>Or just download from the Rboard Manager app if you use this app</li><br>
+        </div>
+        <div class="6u$ 12u$(medium)">
+            <br><br><br>
+            <p><strong>File Name:</strong> Exclusive_3.zip<br>
+            <strong>File Size:</strong>  1.52 MB <br></p>
+            <h3>Downloads:</h3>
+            <ul class="actions">
+                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Exclusive_3.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel/694" class="button special">Telegram</a></li>
+<li>
+</li>
+            </ul>
+        </div>
+    </div>
+<br><br> 
+<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	       
+<div id="exclusive2">
+<h1>Previous Release:</h1>
+    <div class="row 200%">
+        <div class="6u 12u$(medium)">
+	<img
+          src="assets/images/exclusive2.jpg"
+          alt=""
+          data-position="center center"
+        />
+    <h2>Exclusive 2 Themes</h2>
+      <li>Included 25 Themes</li>
+      <li>Using dark and light background as based with different accents</li>
+      <li>Accents colors used:<br>
+      Cyan,Green,Red,Blue,Yellow,etc...</li>
+<h2>How to apply:</h2>
+<li>Download from Github</li>
+<li>Extract the zip</li>
+<li>After you can see others zip and file</li>
+<li>Select and paste to /system/etc/gboard_themes</li>
+<li>Open Rboard Manager App and apply the theme</li>
+<li>Or just download from the Rboard Manager app if you use this app</li><br>
+        </div>
+        <div class="6u$ 12u$(medium)">
+            <br><br><br>
+            <p><strong>File Name:</strong> Exclusive_2.zip<br>
+            <strong>File Size:</strong>  1.44 MB <br></p>
+            <h3>Downloads:</h3>
+            <ul class="actions">
+                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Exclusive_2.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel/684" class="button special">Telegram</a></li>
+<li>
+</li>
+            </ul>
+        </div>
+    </div>
+<br><br> 
+<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	       
+<div id="nero">
+<h1>Previous Release:</h1>
+    <div class="row 200%">
+        <div class="6u 12u$(medium)">
+	<img
+          src="assets/images/nero.jpg"
+          alt=""
+          data-position="center center"
+        />
+    <h2>Nero Themes</h2>
+      <li>Included 14 Themes</li>
+      <li>UsingGood dark grey colours with different desaturated accents</li>
+      <li>Accents colors used:<br>
+      Cyan,Green,Red,Blue,Yellow,etc...</li>
+<h2>How to apply:</h2>
+<li>Download from Github</li>
+<li>Extract the zip</li>
+<li>After you can see others zip and file</li>
+<li>Select and paste to /system/etc/gboard_themes</li>
+<li>Open Rboard Manager App and apply the theme</li>
+<li>Or just download from the Rboard Manager app if you use this app</li><br>
+        </div>
+        <div class="6u$ 12u$(medium)">
+            <br><br><br>
+            <p><strong>File Name:</strong> Nero_Themes.zip<br>
+            <strong>File Size:</strong>  838 KB <br></p>
+            <h3>Downloads:</h3>
+            <ul class="actions">
+                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Nero_Themes.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel/673" class="button special">Telegram</a></li>
+<li>
+</li>
+            </ul>
+        </div>
+    </div>
+<br><br> 
+<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	    
+<div id="arctic">
+<h1>Older Release:</h1>
+    <div class="row 200%">
+        <div class="6u 12u$(medium)">
+	<img
+          src="assets/images/arctic.png"
+          alt=""
+          data-position="center center"
+        />
+    <h2>Arctic Themes</h2>
+      <li>Included 12 Themes</li>
+      <li>Using Telegram Arctic colours as based with different accents</li>
+      <li>Accents colors used:<br>
+      Cyan,Green,Red,Blue,Yellow,etc...</li>
+<h2>How to apply:</h2>
+<li>Download from Github</li>
+<li>Extract the zip</li>
+<li>After you can see others zip and file</li>
+<li>Select and paste to /system/etc/gboard_themes</li>
+<li>Open Rboard Manager App and apply the theme</li>
+<li>Or just download from the Rboard Manager app if you use this app</li><br>
+        </div>
+        <div class="6u$ 12u$(medium)">
+            <br><br><br>
+            <p><strong>File Name:</strong> Arctic_Themes.zip<br>
+            <strong>File Size:</strong>  656 KB <br></p>
+            <h3>Downloads:</h3>
+            <ul class="actions">
+                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Arctic_Themes.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel/679" class="button special">Telegram</a></li>
+<li>
+</li>
+            </ul>
+        </div>
+    </div>
+<br><br> 
+<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>
+<div id="bluish">
+<h1>Older Release:</h1>
+    <div class="row 200%">
+        <div class="6u 12u$(medium)">
+	<img
+          src="assets/images/bluish.jpg"
+          alt=""
+          data-position="center center"
+        />
+    <h2>NightLight Themes</h2>
+      <li>Included 5 Themes</li>
+      <li>Using Blue colours with different accents</li>
+      <li>Accents colors used:<br>
+      Cyan,Green,Red,Blue,Yellow,etc...</li>
+<h2>How to apply:</h2>
+<li>Download from Github</li>
+<li>Extract the zip</li>
+<li>After you can see others zip and file</li>
+<li>Select and paste to /system/etc/gboard_themes</li>
+<li>Open Rboard Manager App and apply the theme</li>
+<li>Or just download from the Rboard Manager app if you use this app</li><br>
+        </div>
+        <div class="6u$ 12u$(medium)">
+            <br><br><br>
+            <p><strong>File Name:</strong> Bluish_Themes.zip<br>
+            <strong>File Size:</strong>  303 KB <br></p>
+            <h3>Downloads:</h3>
+            <ul class="actions">
+                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Bluish_Themes.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel/668" class="button special">Telegram</a></li>
+<li>
+</li>
+            </ul>
+        </div>
+    </div>
+<br><br> 
+<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	 	    
+<div id="nightlight">
+<h1>Older Release:</h1>
     <div class="row 200%">
         <div class="6u 12u$(medium)">
 	<img
@@ -69,7 +327,7 @@ tags: Gboards Themes Google Morethemes
             <h3>Downloads:</h3>
             <ul class="actions">
                 <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/NightLight_Themes.zip" class="button special">Github</a></li>
-                <li><a target="_blank" href="https://t.me/paha_akos_channel/652" class="button special">Telegram</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel/663" class="button special">Telegram</a></li>
 <li>
 </li>
             </ul>
@@ -78,7 +336,7 @@ tags: Gboards Themes Google Morethemes
 <br><br> 
 <h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	    
 <div id="exclusive">
-<h1>Previous Release:</h1>
+<h1>Older Release:</h1>
     <div class="row 200%">
         <div class="6u 12u$(medium)">
 	<img
@@ -117,7 +375,7 @@ tags: Gboards Themes Google Morethemes
 <br><br> 
 <h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	    
 <div id="borderless">
-<h1>Previous Release:</h1>
+<h1>Older Release:</h1>
     <div class="row 200%">
         <div class="6u 12u$(medium)">
 	<img
@@ -153,7 +411,7 @@ tags: Gboards Themes Google Morethemes
 <br><br> 
 <h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	    
 <div id="pitchblack">
-<h1>Previous Release:</h1>
+<h1>Older Release:</h1>
     <div class="row 200%">
         <div class="6u 12u$(medium)">
 	<img
@@ -189,7 +447,7 @@ tags: Gboards Themes Google Morethemes
 <br><br> 
 <h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	  
 <div id="feather">
-<h1>Previous Release:</h1>
+<h1>Older Release:</h1>
     <div class="row 200%">
         <div class="6u 12u$(medium)">
 	<img
@@ -226,7 +484,7 @@ tags: Gboards Themes Google Morethemes
 <br><br> 
 <h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	      
 <div id="darkgrey">
-<h1>Previous Release:</h1>
+<h1>Older Release:</h1>
 </div>
     <div class="row 200%">
         <div class="6u 12u$(medium)">
@@ -263,7 +521,7 @@ tags: Gboards Themes Google Morethemes
 <br><br>
 <h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	    
 <div id="dracula">
-<h1>Previous Release:</h1>
+<h1>Older Release:</h1>
     <div class="row 200%">
         <div class="6u 12u$(medium)">
 	<img
@@ -306,7 +564,7 @@ tags: Gboards Themes Google Morethemes
     </div>
 <br><br> <h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	    
 <div id="desaturated">
-<h1>Previous Release:</h1>
+<h1>Older Release:</h1>
     <div class="row 200%">
         <div class="6u 12u$(medium)">
 	<img
@@ -342,7 +600,7 @@ tags: Gboards Themes Google Morethemes
         </div>
     </div>
 <br><br> <h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	    
-<h1>Previous Release:</h1>
+<h1>Older Release:</h1>
     <div class="row 200%">
         <div class="6u 12u$(medium)">
 	<img
@@ -376,7 +634,7 @@ tags: Gboards Themes Google Morethemes
         </div>
     </div>
 <br><br> <h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	    
-<h1>Previous Release:</h1>
+<h1>Older Release:</h1>
     <div class="row 200%">
         <div class="6u 12u$(medium)">
 	<img
@@ -409,7 +667,7 @@ tags: Gboards Themes Google Morethemes
             </ul>
         </div>
     </div>
-<h1>Previous Release:</h1>
+<h1>Older Release:</h1>
     <div class="row 200%">
         <div class="6u 12u$(medium)">
 	<img
@@ -489,7 +747,7 @@ tags: Gboards Themes Google Morethemes
       <li>Made with Phone</li>
 	  <li>Background color is black</li>
 	  <li>Different accent colors</li>
-      <li>Based on previous themes, just black version</li>
+      <li>Based on Older themes, just black version</li>
 	  <h2>How to apply:</h2>
 <li>Download from Github</li>
 <li>Extract the zip</li>
@@ -543,7 +801,7 @@ tags: Gboards Themes Google Morethemes
             </ul>
         </div>
     </div>
-<h1>Previous Release:</h1>
+<h1>Older Release:</h1>
     <div class="row 200%">
         <div class="6u 12u$(medium)">
 	<img
