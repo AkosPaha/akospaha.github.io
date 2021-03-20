@@ -2,7 +2,7 @@
 layout: projects
 title: Projects
 landing-title: "Projects"
-nav-menu: true
+nav-menu: false
 description: null
 image: null
 author: null
