@@ -9,7 +9,7 @@ tags: Gboards Themes Google Morethemes
     <div class="inner">
     <span class="image main"><img src="/assets/images/Banner_Gboard.jpg" alt="" /></span>
     <h3>About:</h3>
-    <p> Some Gboard Themes for android. Need Magisk root for use the themes. (Need the Rboard manager app (Thanks the app for RadekBledowski (RKBDI), Marcin Slusarek (Nylonw) and Peter (DerTyp7214) <a href="https://t.me/rkbdigboard/1085"> App Link</a>))</p>
+    <p> Some Gboard Themes for android. Need Magisk root for use the themes. (Need the Rboard manager app (Thanks the app for Radek Bledowski (RKBDI), Marcin Slusarek (Nylonw) and Josua (DerTyp7214) <a href="https://t.me/rkbdigboard/1085"> App Link</a>))</p>
     <ul class="icons">
         <li>
             <a href="https://github.com/AkosPaha/Rboard-ColorsTheme" class="icon alt fa fa-github" target="_blank">
@@ -49,7 +49,7 @@ tags: Gboards Themes Google Morethemes
           data-position="center center"
         />
     <h2>Rounded Pack Themes</h2>
-      <li>Included 9 Themes</li>
+      <li>Included 5 Themes</li>
       <li>All Theme based on Rboard group, Channel and Rboard Manager Release and Debug App icons</li>
 <h2>How to apply:</h2>
 <li>Download from Github</li>
