@@ -9,7 +9,7 @@ tags: Gboards Themes Google Morethemes
     <div class="inner">
     <span class="image main"><img src="/assets/images/Banner_Gboard.jpg" alt="" /></span>
     <h3>About:</h3>
-    <p> Some Gboard Themes for android. Need Magisk root for use the themes. (Need the Rboard manager app (Thanks the app for RadekBledowski (RKBDI), Marcin Slusarek (Nylonw) and Peter (DerTyp7214) <a href="https://t.me/rkbdigboard/1018"> App Link</a>))</p>
+    <p> Some Gboard Themes for android. Need Magisk root for use the themes. (Need the Rboard manager app (Thanks the app for RadekBledowski (RKBDI), Marcin Slusarek (Nylonw) and Peter (DerTyp7214) <a href="https://t.me/rkbdigboard/1085"> App Link</a>))</p>
     <ul class="icons">
         <li>
             <a href="https://github.com/AkosPaha/Rboard-ColorsTheme" class="icon alt fa fa-github" target="_blank">
@@ -32,7 +32,7 @@ tags: Gboards Themes Google Morethemes
         <li class="icon alt far fa-chart-bar"></li><li>Current Theme numbers: 430</li>
         <br>
     </ul><h4>How to apply:</h4> 
-<li>Download the <a href="https://t.me/rkbdigboard/1018">Rboard Themes Manager app</a></li>
+<li>Download the <a href="https://t.me/rkbdigboard/1085">Rboard Themes Manager app</a></li>
 <li>Install the Rboard Theme Manager app apk</li> 
 <li>Open the Rboard Theme Manager (Grant Root and allow storage permission)</li>
 <li>Reboot</li>
