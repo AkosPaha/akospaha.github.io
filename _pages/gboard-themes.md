@@ -48,7 +48,7 @@ tags: Gboards Themes Google Morethemes
           alt=""
           data-position="center center"
         />
-    <h2>Logo Pack Themes</h2>
+    <h2>Rounded Pack Themes</h2>
       <li>Included 9 Themes</li>
       <li>All Theme based on Rboard group, Channel and Rboard Manager Release and Debug App icons</li>
 <h2>How to apply:</h2>
