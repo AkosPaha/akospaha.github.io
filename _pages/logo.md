@@ -23,7 +23,6 @@ nav-menu: true
         <p>
           - <a target="_blank" href="https://t.me/havoc_vince">Havoc Vince Group</a><br/>
           - <a target="_blank" href="https://t.me/officialcrvincewhyred">CRDROID Vince & Whyred Group</a><br/>
-          - <a target="_blank" href="https://t.me/xtended_vince">MSM X Vince Group</a><br />
           - <a target="_blank" href="https://t.me/stormbreaker_vince">Stormbreaker Kernel Vince Channel & Group</a><br />
           - <a target="_blank" href="https://t.me/paha_akos_channel">Channel of AkosPaha</a><br />
         </p>

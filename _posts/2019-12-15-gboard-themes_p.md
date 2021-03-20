@@ -10,7 +10,7 @@ tags: Gboard Themes Google Morethemes Gboardkeyboard Keyboard Custom Themes
 
 #### Introduction:
 
-> Some Gboard Themes for android. Need Magisk root for use the theme.(Need magisk module (Thanks the module RKBDI)<a href="https://t.me/gboardthemes/44316">Module Link</a>) + The Rboard manager app (Thanks the app Peter(DerTyp7214) <a href="https://github.com/DerTyp7214/Rboard-Theme-Manager/releases">App Link</a> ). Download the <a href="https://t.me/gboardthemes/44316">Rboard Magisk Module</a> and the <a href="https://github.com/DerTyp7214/Rboard-Theme-Manager/releases/download/1.7/app-debug.apk"> Rboard Theme Manager app</a>.
+> Some Gboard Themes for android. Need Magisk root for use the themes. (Need the Rboard manager app (Thanks the app for RadekBledowski (RKBDI), Marcin Slusarek (Nylonw) and Peter (DerTyp7214) <a href="https://t.me/rkbdigboard/1018"> App Link</a>).
 
 
 - Install the Magisk module in the Magisk Manager (Magisk is root) and reboot phone.
@@ -25,7 +25,7 @@ tags: Gboard Themes Google Morethemes Gboardkeyboard Keyboard Custom Themes
 > For more gboard themes
 #### Features:
 
-- 21 different pack(now)
+- 37 different pack(now)
 - Dark and light material color
 - Lots of different background and accent color
 - Theme with border and without border

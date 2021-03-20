@@ -120,7 +120,7 @@ nav-menu: true
           </p>
           <ul class="actions">
             <li>
-              <a href="https://akospaha.tk/projects/gboard-themes/" class="button">Learn more</a>
+              <a href="https://akospaha.tk/projects/gboard-themes/" class="button">Read more....</a>
             </li>
           </ul>
         </div>

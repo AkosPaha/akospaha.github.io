@@ -7,11 +7,40 @@ nav-menu: true
     <div class="inner">
    <h4><a href="" target="_blank"> What do I use for photography:</a></h4>
    <li>Mobile: Xiaomi Redmi 5 Plus (Vince), 12MP F2.2 OV12A10 </li>
-   <li>Android OS: Android 11 Fluid 1.1 R Official</li>
-   <li>Camera app: Google Camera 7.6.008 V9 (Need Android 10 or newer)</li>
-   <li>Edit app: Lightroom CC Mobile Premium 6.1.0</li>
+   <li>Android OS: Android 11 Fluid 1.3 R Official</li>
+   <li>Camera app: BSG Google Camera 8.1.101 (Need Android 9 or newer)</li>
+   <li>Edit app: Lightroom CC Mobile Premium</li>
 <br><br>
-<h2>Parrot Google Camera 7.6.008:(Newest)</h2>
+<h2>BSG Google Camera 8.1.101:(Newest)</h2>
+    <div class="row 200%">
+        <div class="6u 12u$(medium)">
+	<img
+          width="100%"
+          src="assets/images/gcam_bsg8.1.png"
+          alt=""
+          data-position="center center"
+        />      
+    <br><br>
+    <h2>How to:</h2>
+    <li>Download the Google Camera (Latest 8.1.101 Stable) <br> (Working on all device I guess)</li>
+<li>Install Google Camera (Only for Android 9+)</li>
+<li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwic1vu_lcbmAhWM6qQKHeIjDSgQFjAAegQIBhAB&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.airbeat.device.inspector%26hl%3Dhu&usg=AOvVaw3gEAe5p4qHtFogeASeA2-B">Check Camera2api "Level 3")</a></li> 
+<li>Setting up the App</li>
+<li>Enjoy</li>
+<li>Creating lots of good picture :)</li>
+        </div>
+        <div class="6u$ 12u$(medium)">
+            <br><br><br>
+            <h3>Downloads:</h3>
+            <ul class="actions">
+                <li><a target="_blank" href="https://drive.google.com/folderview?id=1-xXsPpB1FKTVBw9C8fxyPvg0OchXgfs6" class="button special">GCam 8.1.101 Download + Setting</a></li>
+<li>
+</li>
+            </ul>
+        </div>
+    </div>
+    <br><h4>Credit:</h4> BSG <a target="_blank" href="https://t.me/BSG_googlecamera">Group</a>	    
+<h2>Parrot Google Camera 7.6.008:</h2>
     <div class="row 200%">
         <div class="6u 12u$(medium)">
 	<img
@@ -42,7 +71,7 @@ nav-menu: true
             </ul>
         </div>
     </div>
-<h2>Parrot Google Camera 7.4.104:(Previous)</h2>
+<h2>Parrot Google Camera 7.4.104:</h2>
     <div class="row 200%">
         <div class="6u 12u$(medium)">
 	<img
@@ -74,7 +103,7 @@ I don't found gcam 7.4 which support it on Redmi 5 Plus (Vince)</li>
             </ul>
         </div>
     </div>
-<h2>Parrot Google Camera 7.3.020:(Old)</h2>
+<h2>Parrot Google Camera 7.3.020:</h2>
     <div class="row 200%">
         <div class="6u 12u$(medium)">
 	<img
